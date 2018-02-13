@@ -55,14 +55,14 @@ def write_expression(list1, f, g):
 
 
 def make_sentence(sequence, f, g):
-    """write sentence iterating in the different lists"""
+    """write sentence iterating in the different lists (sequence is list of lists)"""
     for i in range(len(sequence)):
         f.write(' ')
         #g.write('\n')
         write_expression(sequence[i], f, g)
 
 def write_attribute(attribute, f, all_features, g):
-    """writes attributes and removes it from list"""
+    """writes attribute and removes it from list"""
     f.write(' ')
     g.write('\n')
     f.write(attribute)
