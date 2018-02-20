@@ -4,7 +4,8 @@ reccomender_system/datasets/fasttext/embeddings/*
 reccomender_system/datasets/fasttext/wiki.en.vec
 
 *.DS_Store
-.idea/*
+.idea
+
 __pycache__/
 *.py[cod]
 *$py.class
