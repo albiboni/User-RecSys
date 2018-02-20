@@ -1,20 +1,20 @@
-# Project Title
+# Analysis of Recommendation-systems based on User Preferences
 
-One Paragraph of project description goes here
+This repository contains the code for the project: "Analysis of Recommendation-systems based on User Preferences", which I worked on during my exchange semester at the École Polytechnique Fédérale de Lausanne.
 
-## Getting Started
+## Abstract
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This paper presents a recommender system able to understand user preferences, queries written in natural language. The model is able to select five different options from a large set of multi-attribute alternatives. In order to understand the user query, different natural language processing (NLP) models have been tested from classic approaches such as Latent Semantic Analysis (LSA) to word embeddings. We show first how these different models compare between each other and lastly that applying Tf-idf and subsequently the Jaccard coefficient performs better in this experiment. A new dataset is created for training and evaluating the model since a compatible one is not available. The dataset contains descriptions and user queries written in natural language. Further, we show that the model can be used with a real user by simulating it, this means that information is provided to the recommendation system gradually, instead of all at once.
 
-### Prerequisites
+## Dataset
 
-What things you need to install the software and how to install them
+The dataset is composed of hotel descriptions, hotel features, user queries and user features.
 
-```
-Give examples
-```
+Hotel descriptions and hotel features are crawled from booking.com( crawler_booking.py)
 
-### Installing
+User queries and user features are generated with the query_generator.py
+
+## Installing
 
 A step by step series of examples that tell you have to get a development env running
 

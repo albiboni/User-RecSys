@@ -2,7 +2,7 @@
 This repository contains the code for the project: "Analysis of Recommendation-systems based on User Preferences", 
 which I worked on during my exchange semester at the École Polytechnique Fédérale de Lausanne.
 
-##Abstract
+## Abstract
 
 This paper presents a recommender system able to understand user preferences, queries written in natural language. 
 The model is able to select five different options from a large set of multi-attribute alternatives. In order to 
@@ -14,22 +14,22 @@ contains descriptions and user queries written in natural language. Further, we 
 real user by simulating it, this means that information is provided to the recommendation system gradually, instead of 
 all at once.
 
-##Dataset
+## Dataset
 The dataset is composed of hotel descriptions, hotel features, user queries and user features.
 
 Hotel descriptions and hotel features are crawled from booking.com( crawler_booking.py)
 
 User queries and user features are generated with the query_generator.py
 
-##Recommender system
+## Recommender system
 The folder recommender system presents the different recommendation model used and a dataset which includes the hotels 
 in the region of the lac Leéman (Lausanne and Geneva).
 
-##Links
+## Links
 Project presentation: https://mega.nz/#!sDAWwAbD!CI2-3pkmOrOwqVZqDZCG0q-aK3bdVe_ORYlaW7LfMVQ
 
 Project paper: https://mega.nz/#!kXYCibwQ!dNKAUjSSOogtdjzIysgmoeFPlkVMjsatyJoRTI6Tz94
-###Requirements
+### Requirements
 
 Python 3.6.2 https://www.python.org/downloads/
 
