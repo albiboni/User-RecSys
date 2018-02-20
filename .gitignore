@@ -3,6 +3,7 @@
 reccomender_system/datasets/fasttext/embeddings/*
 reccomender_system/datasets/fasttext/wiki.en.vec
 
+#extra files
 *.DS_Store
 .idea
 
