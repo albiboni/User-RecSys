@@ -23,7 +23,7 @@ User queries and user features are generated with the query_generator.py
 
 ## Recommender system
 The folder recommender system presents the different recommendation model used and a dataset which includes the hotels 
-in the region of the lac Leéman (Lausanne and Geneva).
+in the region of the lac Léman (Lausanne and Geneva).
 
 ## Links
 Project presentation: https://mega.nz/#!sDAWwAbD!CI2-3pkmOrOwqVZqDZCG0q-aK3bdVe_ORYlaW7LfMVQ
