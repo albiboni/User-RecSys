@@ -1,0 +1,14522 @@
+apartment
+
+Arveyes
+new_sentence
+
+sun terrace
+with a view on the lake
+new_sentence
+
+room services
+bar
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+bed and breakfast
+
+Bex
+new_sentence
+
+beach nearby
+with a view
+new_sentence
+
+balcony
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+chalet
+
+Bex
+new_sentence
+
+Sauna
+new_sentence
+
+beach nearby
+with a view on the mountains
+new_sentence
+richiestautente
+holiday home
+
+Villars-sur-Ollon
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+library
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Les Rasses
+new_sentence
+
+air conditioning
+new_sentence
+
+business centre
+new_sentence
+
+swimming pool
+with a view on the mountains
+new_sentence
+
+hairdryer
+new_sentence
+richiestautente
+apartment
+
+Chesières
+new_sentence
+
+laundry
+new_sentence
+
+play table tennis
+new_sentence
+
+laundry
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+chalet
+
+Vevey
+new_sentence
+
+fitness centre
+new_sentence
+
+lift
+new_sentence
+
+bathroom with a bath
+hairdryer
+new_sentence
+richiestautente
+hostel
+
+Leysin
+new_sentence
+
+24-hour reception
+restaurant
+new_sentence
+
+bar
+lift
+new_sentence
+
+toilet
+new_sentence
+richiestautente
+chalet
+
+Bouveret
+new_sentence
+
+sun terrace
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+holiday home
+
+Rossinière
+new_sentence
+
+TV
+new_sentence
+
+Hammam
+new_sentence
+
+shuttle service
+room services
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Villars-sur-Ollon
+new_sentence
+
+microwave
+toilet
+new_sentence
+
+children’s playground
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+apartment
+
+Yverdon-les-Bains
+new_sentence
+
+sofa
+new_sentence
+
+washing machine
+new_sentence
+richiestautente
+apartment
+
+Yverdon-les-Bains
+new_sentence
+
+room services
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+apartment
+
+Rossinière
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+go skiing
+new_sentence
+richiestautente
+hostel
+
+Arveyes
+new_sentence
+
+coffee machine
+new_sentence
+
+restaurant
+new_sentence
+
+bar
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+hostel
+
+Bouveret
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+
+private bathroom
+new_sentence
+
+terrace
+new_sentence
+
+fitness centre
+new_sentence
+richiestautente
+guest house
+
+Nyon
+new_sentence
+
+parking spot
+24-hour reception
+new_sentence
+
+minibar
+new_sentence
+
+library
+new_sentence
+
+children’s playground
+new_sentence
+richiestautente
+holiday home
+
+Villars-sur-Ollon
+new_sentence
+
+go hiking
+new_sentence
+
+microwave
+new_sentence
+
+restaurant
+room services
+new_sentence
+richiestautente
+guest house
+
+Saint-Cergue
+new_sentence
+
+kitchen
+sofa
+new_sentence
+
+beach nearby
+new_sentence
+
+air conditioning
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+holiday home
+
+Villeneuve
+new_sentence
+
+beach nearby
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+chalet
+
+Geneva
+new_sentence
+
+swimming pool
+new_sentence
+
+minibar
+new_sentence
+
+laundry
+new_sentence
+
+coffee machine
+new_sentence
+richiestautente
+bed and breakfast
+
+Gryon
+new_sentence
+
+beach nearby
+with a view
+new_sentence
+
+balcony
+with a view
+new_sentence
+
+room services
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+apartment
+
+Sainte-Croix
+new_sentence
+
+lift
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+villa
+
+Leysin
+new_sentence
+
+sun terrace
+with a view on the lake
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+apartment
+
+Rossinière
+new_sentence
+
+balcony
+with a view on the lake
+new_sentence
+
+swimming pool
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+guest house
+
+Bouveret
+new_sentence
+
+refrigerator
+new_sentence
+
+Hammam
+new_sentence
+
+fitness centre
+new_sentence
+
+hairdryer
+TV
+new_sentence
+richiestautente
+hotel
+
+Bouveret
+new_sentence
+
+DVD player
+new_sentence
+
+fitness centre
+new_sentence
+
+garden
+new_sentence
+richiestautente
+apartment
+
+Villeneuve
+new_sentence
+
+fireplace
+new_sentence
+
+laundry
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Gryon
+new_sentence
+
+swimming pool
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+apartment
+
+Bex
+new_sentence
+
+swimming pool
+with a view
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+bed and breakfast
+
+Les Rasses
+new_sentence
+
+laundry
+new_sentence
+
+fireplace
+new_sentence
+
+DVD player
+new_sentence
+
+coffee machine
+new_sentence
+richiestautente
+guest house
+
+Montreux
+new_sentence
+
+lift
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+chalet
+
+Leysin
+new_sentence
+
+terrace
+new_sentence
+
+fireplace
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+guest house
+
+Villars-sur-Ollon
+new_sentence
+
+swimming pool
+new_sentence
+
+Sauna
+new_sentence
+
+garden
+new_sentence
+richiestautente
+hostel
+
+Geneva
+new_sentence
+
+private bathroom
+new_sentence
+
+massage center
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+hostel
+
+Saint-Cergue
+new_sentence
+
+room services
+new_sentence
+
+patio
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Rossinière
+new_sentence
+
+do horse riding
+new_sentence
+
+washing machine
+sofa
+new_sentence
+
+kitchen
+hairdryer
+new_sentence
+richiestautente
+bed and breakfast
+
+Arveyes
+new_sentence
+
+24-hour reception
+new_sentence
+
+lift
+new_sentence
+
+Hot Tub
+new_sentence
+
+microwave
+sofa
+new_sentence
+richiestautente
+guest house
+
+Les Diablerets
+new_sentence
+
+restaurant
+new_sentence
+
+shuttle service
+children’s playground
+new_sentence
+
+Hot Tub
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+guest house
+
+Bouveret
+new_sentence
+
+massage center
+new_sentence
+
+private bathroom
+bathroom with a bath
+new_sentence
+
+TV with cable channels
+new_sentence
+richiestautente
+bed and breakfast
+
+Geneva
+new_sentence
+
+sofa
+new_sentence
+
+lift
+Safety Deposit Box
+new_sentence
+
+toilet
+new_sentence
+
+library
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Lausanne
+new_sentence
+
+TV with cable channels
+new_sentence
+
+TV with cable channels
+new_sentence
+richiestautente
+holiday home
+
+Lausanne
+new_sentence
+
+swimming pool
+new_sentence
+
+children’s playground
+new_sentence
+richiestautente
+hostel
+
+Gryon
+new_sentence
+
+CD player
+new_sentence
+
+24-hour reception
+new_sentence
+richiestautente
+villa
+
+Nyon
+new_sentence
+
+toilet
+new_sentence
+
+go skiing
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+guest house
+
+Chesières
+new_sentence
+
+Hot Tub
+new_sentence
+
+sofa
+new_sentence
+
+air conditioning
+new_sentence
+
+restaurant
+new_sentence
+richiestautente
+hotel
+
+Morges
+new_sentence
+
+DVD player
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+hostel
+
+Chateau-d’Oex
+new_sentence
+
+desk
+new_sentence
+
+patio
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+bed and breakfast
+
+Morges
+new_sentence
+
+24-hour reception
+new_sentence
+
+go skiing
+new_sentence
+richiestautente
+guest house
+
+Arveyes
+new_sentence
+
+fireplace
+new_sentence
+
+ski school
+room services
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+holiday home
+
+Leysin
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+
+air conditioning
+hairdryer
+new_sentence
+richiestautente
+bed and breakfast
+
+Yverdon-les-Bains
+new_sentence
+
+swimming pool
+with a view on the mountains
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+hostel
+
+Les Rasses
+new_sentence
+
+patio
+new_sentence
+
+desk
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Bex
+new_sentence
+
+go hiking
+new_sentence
+
+hairdryer
+new_sentence
+
+sofa
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+apartment
+
+Bouveret
+new_sentence
+
+Sauna
+new_sentence
+
+garden
+new_sentence
+
+restaurant
+new_sentence
+
+garden
+with a view on the lake
+new_sentence
+richiestautente
+bed and breakfast
+
+Vevey
+new_sentence
+
+TV
+new_sentence
+
+shuttle service
+business centre
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+holiday home
+
+Sainte-Croix
+new_sentence
+
+play tennis
+new_sentence
+
+children’s playground
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+hotel
+
+Lausanne
+new_sentence
+
+24-hour reception
+new_sentence
+
+microwave
+air conditioning
+new_sentence
+
+Sauna
+new_sentence
+
+library
+new_sentence
+richiestautente
+chalet
+
+Bouveret
+new_sentence
+
+TV
+new_sentence
+
+bathroom with a bath
+sofa
+new_sentence
+
+terrace
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+villa
+
+Chateau-d’Oex
+new_sentence
+
+play tennis
+new_sentence
+
+TV
+new_sentence
+
+garden
+new_sentence
+
+bar
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Bex
+new_sentence
+
+lift
+new_sentence
+
+go cycling
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+apartment
+
+Bex
+new_sentence
+
+terrace
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+hotel
+
+Lausanne
+new_sentence
+
+go hiking
+new_sentence
+
+air conditioning
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+guest house
+
+Gryon
+new_sentence
+
+Hot Tub
+new_sentence
+
+Hammam
+new_sentence
+
+room services
+new_sentence
+
+children’s playground
+new_sentence
+richiestautente
+holiday home
+
+Chesières
+new_sentence
+
+air conditioning
+refrigerator
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+chalet
+
+Vevey
+new_sentence
+
+TV
+sofa
+new_sentence
+
+laundry
+parking spot
+new_sentence
+richiestautente
+guest house
+
+Villars-sur-Ollon
+new_sentence
+
+ski school
+new_sentence
+
+shuttle service
+room services
+new_sentence
+
+children’s playground
+restaurant
+new_sentence
+richiestautente
+guest house
+
+Lausanne
+new_sentence
+
+play tennis
+new_sentence
+
+air conditioning
+microwave
+new_sentence
+
+business centre
+laundry
+new_sentence
+richiestautente
+holiday home
+
+Lausanne
+new_sentence
+
+bathroom with a bath
+air conditioning
+new_sentence
+
+fireplace
+new_sentence
+
+hairdryer
+washing machine
+new_sentence
+richiestautente
+chalet
+
+Nyon
+new_sentence
+
+DVD player
+new_sentence
+
+Hammam
+new_sentence
+
+WiFi
+minibar
+new_sentence
+richiestautente
+guest house
+
+Sainte-Croix
+new_sentence
+
+washing machine
+new_sentence
+
+balcony
+new_sentence
+
+sofa
+new_sentence
+
+balcony
+with a view on the mountains
+new_sentence
+richiestautente
+villa
+
+Les Diablerets
+new_sentence
+
+sofa
+new_sentence
+
+garden
+new_sentence
+
+TV with cable channels
+new_sentence
+
+TV
+new_sentence
+richiestautente
+chalet
+
+Gryon
+new_sentence
+
+balcony
+with a view
+new_sentence
+
+TV with cable channels
+new_sentence
+
+restaurant
+new_sentence
+richiestautente
+holiday home
+
+Yverdon-les-Bains
+new_sentence
+
+DVD player
+new_sentence
+
+children’s playground
+new_sentence
+
+desk
+new_sentence
+richiestautente
+hostel
+
+Arveyes
+new_sentence
+
+CD player
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+apartment
+
+Les Rasses
+new_sentence
+
+DVD player
+new_sentence
+
+air conditioning
+new_sentence
+richiestautente
+chalet
+
+Bouveret
+new_sentence
+
+fireplace
+new_sentence
+
+bar
+new_sentence
+
+bar
+new_sentence
+
+breakfast
+new_sentence
+richiestautente
+hotel
+
+Arveyes
+new_sentence
+
+ski school
+new_sentence
+
+WiFi
+new_sentence
+richiestautente
+holiday home
+
+Bellevue
+new_sentence
+
+toilet
+washing machine
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+holiday home
+
+Yverdon-les-Bains
+new_sentence
+
+toilet
+new_sentence
+
+breakfast
+new_sentence
+richiestautente
+apartment
+
+Saint-Cergue
+new_sentence
+
+garden
+new_sentence
+
+kitchen
+new_sentence
+
+coffee machine
+bathroom with a bath
+new_sentence
+
+refrigerator
+air conditioning
+new_sentence
+richiestautente
+villa
+
+Leysin
+new_sentence
+
+balcony
+new_sentence
+
+CD player
+new_sentence
+
+sun terrace
+new_sentence
+
+hairdryer
+new_sentence
+richiestautente
+hotel
+
+Vevey
+new_sentence
+
+sun terrace
+new_sentence
+
+play table tennis
+new_sentence
+
+shuttle service
+new_sentence
+
+microwave
+toilet
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Bex
+new_sentence
+
+bar
+new_sentence
+
+TV
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+holiday home
+
+Bouveret
+new_sentence
+
+library
+new_sentence
+
+TV
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Les Rasses
+new_sentence
+
+beach nearby
+new_sentence
+
+minibar
+new_sentence
+
+desk
+new_sentence
+
+terrace
+with a view on the lake
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Villars-sur-Ollon
+new_sentence
+
+24-hour reception
+new_sentence
+
+restaurant
+new_sentence
+richiestautente
+villa
+
+Leysin
+new_sentence
+
+24-hour reception
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+go hiking
+new_sentence
+
+24-hour reception
+new_sentence
+richiestautente
+villa
+
+Chateau-d’Oex
+new_sentence
+
+beach nearby
+new_sentence
+
+CD player
+new_sentence
+
+room services
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+guest house
+
+Villars-sur-Ollon
+new_sentence
+
+garden
+new_sentence
+
+sun terrace
+new_sentence
+
+refrigerator
+air conditioning
+new_sentence
+richiestautente
+villa
+
+Gryon
+new_sentence
+
+Bath
+new_sentence
+
+restaurant
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+bed and breakfast
+
+Bouveret
+new_sentence
+
+bar
+new_sentence
+
+balcony
+new_sentence
+
+restaurant
+new_sentence
+richiestautente
+holiday home
+
+Villeneuve
+new_sentence
+
+Bath
+new_sentence
+
+terrace
+with a view
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Saint-Cergue
+new_sentence
+
+terrace
+new_sentence
+
+sofa
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+hotel
+
+Bellevue
+new_sentence
+
+DVD player
+new_sentence
+
+sofa
+new_sentence
+
+24-hour reception
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+hostel
+
+Leysin
+new_sentence
+
+ski school
+new_sentence
+
+terrace
+new_sentence
+
+bar
+new_sentence
+richiestautente
+hostel
+
+Montreux
+new_sentence
+
+washing machine
+new_sentence
+
+do horse riding
+new_sentence
+
+sun terrace
+new_sentence
+
+air conditioning
+new_sentence
+richiestautente
+apartment
+
+Gryon
+new_sentence
+
+go hiking
+new_sentence
+
+minibar
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+bed and breakfast
+
+Morges
+new_sentence
+
+minibar
+new_sentence
+
+go skiing
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Leysin
+new_sentence
+
+hairdryer
+new_sentence
+
+library
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+hostel
+
+Yverdon-les-Bains
+new_sentence
+
+breakfast
+new_sentence
+
+children’s playground
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+hotel
+
+Saint-Cergue
+new_sentence
+
+balcony
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+balcony
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+hotel
+
+Bouveret
+new_sentence
+
+toilet
+WiFi
+new_sentence
+
+kitchen
+WiFi
+new_sentence
+
+microwave
+new_sentence
+
+library
+new_sentence
+richiestautente
+villa
+
+Saint-Cergue
+new_sentence
+
+minibar
+new_sentence
+
+garden
+new_sentence
+
+sun terrace
+with a view on the mountains
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+bed and breakfast
+
+Les Diablerets
+new_sentence
+
+desk
+new_sentence
+
+balcony
+new_sentence
+
+fitness centre
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+guest house
+
+Les Diablerets
+new_sentence
+
+terrace
+new_sentence
+
+balcony
+new_sentence
+
+beach nearby
+with a view on the mountains
+new_sentence
+richiestautente
+hostel
+
+Saint-Cergue
+new_sentence
+
+toilet
+new_sentence
+
+WiFi
+new_sentence
+
+laundry
+new_sentence
+richiestautente
+bed and breakfast
+
+Gryon
+new_sentence
+
+bar
+new_sentence
+
+TV with cable channels
+new_sentence
+
+ski school
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+bed and breakfast
+
+Bellevue
+new_sentence
+
+fitness centre
+new_sentence
+
+minibar
+new_sentence
+
+fitness centre
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+holiday home
+
+Rossinière
+new_sentence
+
+hairdryer
+refrigerator
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+chalet
+
+the airport
+new_sentence
+
+ski school
+children’s playground
+new_sentence
+
+laundry
+new_sentence
+
+go skiing
+new_sentence
+richiestautente
+chalet
+
+Geneva
+new_sentence
+
+laundry
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+hostel
+
+Villars-sur-Ollon
+new_sentence
+
+swimming pool
+new_sentence
+
+parking spot
+new_sentence
+
+play table tennis
+new_sentence
+
+minibar
+new_sentence
+richiestautente
+guest house
+
+Montreux
+new_sentence
+
+CD player
+new_sentence
+
+children’s playground
+new_sentence
+
+WiFi
+new_sentence
+richiestautente
+holiday home
+
+Leysin
+new_sentence
+
+lift
+new_sentence
+
+Sauna
+new_sentence
+
+go skiing
+new_sentence
+
+bar
+new_sentence
+richiestautente
+villa
+
+Les Diablerets
+new_sentence
+
+hairdryer
+new_sentence
+
+go skiing
+new_sentence
+
+go skiing
+new_sentence
+
+breakfast
+new_sentence
+richiestautente
+guest house
+
+Nyon
+new_sentence
+
+coffee machine
+private bathroom
+new_sentence
+
+ski school
+business centre
+new_sentence
+
+24-hour reception
+breakfast
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+holiday home
+
+Bex
+new_sentence
+
+fitness centre
+new_sentence
+
+restaurant
+new_sentence
+richiestautente
+villa
+
+Morges
+new_sentence
+
+garden
+with a view on the lake
+new_sentence
+
+24-hour reception
+new_sentence
+
+minibar
+new_sentence
+richiestautente
+villa
+
+Yverdon-les-Bains
+new_sentence
+
+Hammam
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+villa
+
+Bellevue
+new_sentence
+
+patio
+new_sentence
+
+sofa
+new_sentence
+
+kitchen
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+hotel
+
+Bouveret
+new_sentence
+
+terrace
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+villa
+
+Chateau-d’Oex
+new_sentence
+
+bathroom with a bath
+WiFi
+new_sentence
+
+air conditioning
+new_sentence
+
+go cycling
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+hotel
+
+Bouveret
+new_sentence
+
+Bath
+new_sentence
+
+DVD player
+new_sentence
+
+TV with cable channels
+new_sentence
+
+TV with cable channels
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+the airport
+new_sentence
+
+swimming pool
+new_sentence
+
+garden
+new_sentence
+
+24-hour reception
+new_sentence
+richiestautente
+hotel
+
+Les Diablerets
+new_sentence
+
+kitchen
+new_sentence
+
+bathroom with a bath
+kitchen
+new_sentence
+richiestautente
+apartment
+
+Vevey
+new_sentence
+
+washing machine
+sofa
+new_sentence
+
+swimming pool
+new_sentence
+
+library
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+guest house
+
+Sainte-Croix
+new_sentence
+
+go cycling
+new_sentence
+
+Hammam
+new_sentence
+
+do horse riding
+new_sentence
+
+laundry
+new_sentence
+richiestautente
+bed and breakfast
+
+Chesières
+new_sentence
+
+business centre
+room services
+new_sentence
+
+microwave
+TV
+new_sentence
+
+coffee machine
+new_sentence
+richiestautente
+bed and breakfast
+
+Arveyes
+new_sentence
+
+DVD player
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+guest house
+
+Les Rasses
+new_sentence
+
+swimming pool
+new_sentence
+
+Hammam
+new_sentence
+
+private bathroom
+sofa
+new_sentence
+richiestautente
+holiday home
+
+Gryon
+new_sentence
+
+kitchen
+new_sentence
+
+garden
+with a view on the lake
+new_sentence
+
+go skiing
+new_sentence
+richiestautente
+holiday home
+
+Gryon
+new_sentence
+
+sofa
+new_sentence
+
+laundry
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+hostel
+
+Yverdon-les-Bains
+new_sentence
+
+Hammam
+new_sentence
+
+sun terrace
+with a view on the mountains
+new_sentence
+richiestautente
+hostel
+
+Vevey
+new_sentence
+
+patio
+with a view on the mountains
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+holiday home
+
+Lausanne
+new_sentence
+
+air conditioning
+new_sentence
+
+fireplace
+new_sentence
+
+refrigerator
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+hotel
+
+Sainte-Croix
+new_sentence
+
+coffee machine
+new_sentence
+
+air conditioning
+desk
+new_sentence
+
+play table tennis
+new_sentence
+
+go skiing
+new_sentence
+richiestautente
+hotel
+
+Villars-sur-Ollon
+new_sentence
+
+hairdryer
+new_sentence
+
+terrace
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+villa
+
+Rossinière
+new_sentence
+
+microwave
+new_sentence
+
+washing machine
+bathroom with a bath
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+hostel
+
+Les Diablerets
+new_sentence
+
+patio
+with a view on the lake
+new_sentence
+
+ski school
+business centre
+new_sentence
+
+Hot Tub
+new_sentence
+
+WiFi
+bathroom with a bath
+new_sentence
+richiestautente
+apartment
+
+Les Rasses
+new_sentence
+
+WiFi
+refrigerator
+new_sentence
+
+breakfast
+new_sentence
+
+shuttle service
+new_sentence
+
+beach nearby
+with a view
+new_sentence
+richiestautente
+chalet
+
+Chesières
+new_sentence
+
+do horse riding
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+villa
+
+Arveyes
+new_sentence
+
+Bath
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+holiday home
+
+Yverdon-les-Bains
+new_sentence
+
+sun terrace
+with a view on the lake
+new_sentence
+
+shuttle service
+new_sentence
+
+garden
+new_sentence
+
+private bathroom
+refrigerator
+new_sentence
+richiestautente
+hotel
+
+Villars-sur-Ollon
+new_sentence
+
+washing machine
+new_sentence
+
+fireplace
+new_sentence
+
+kitchen
+new_sentence
+
+room services
+new_sentence
+richiestautente
+villa
+
+Villars-sur-Ollon
+new_sentence
+
+shuttle service
+new_sentence
+
+minibar
+toilet
+new_sentence
+
+children’s playground
+new_sentence
+richiestautente
+guest house
+
+Rossinière
+new_sentence
+
+garden
+new_sentence
+
+coffee machine
+minibar
+new_sentence
+richiestautente
+bed and breakfast
+
+Les Diablerets
+new_sentence
+
+swimming pool
+new_sentence
+
+room services
+new_sentence
+
+air conditioning
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chesières
+new_sentence
+
+laundry
+new_sentence
+
+washing machine
+new_sentence
+richiestautente
+apartment
+
+Villeneuve
+new_sentence
+
+desk
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+bed and breakfast
+
+Gryon
+new_sentence
+
+minibar
+new_sentence
+
+kitchen
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+chalet
+
+Sainte-Croix
+new_sentence
+
+play table tennis
+new_sentence
+
+Hammam
+new_sentence
+
+laundry
+parking spot
+new_sentence
+
+parking spot
+lift
+new_sentence
+richiestautente
+chalet
+
+Chateau-d’Oex
+new_sentence
+
+balcony
+with a view on the lake
+new_sentence
+
+go skiing
+new_sentence
+
+play table tennis
+new_sentence
+
+go skiing
+new_sentence
+richiestautente
+hotel
+
+the airport
+new_sentence
+
+private bathroom
+new_sentence
+
+patio
+new_sentence
+richiestautente
+villa
+
+Nyon
+new_sentence
+
+bar
+breakfast
+new_sentence
+
+desk
+coffee machine
+new_sentence
+
+garden
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+hotel
+
+Yverdon-les-Bains
+new_sentence
+
+room services
+lift
+new_sentence
+
+play in casino
+new_sentence
+
+balcony
+with a view on the mountains
+new_sentence
+richiestautente
+apartment
+
+Vevey
+new_sentence
+
+parking spot
+new_sentence
+
+washing machine
+new_sentence
+
+24-hour reception
+new_sentence
+
+lift
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Yverdon-les-Bains
+new_sentence
+
+balcony
+new_sentence
+
+refrigerator
+sofa
+new_sentence
+
+go cycling
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Geneva
+new_sentence
+
+massage center
+new_sentence
+
+DVD player
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+bed and breakfast
+
+Montreux
+new_sentence
+
+CD player
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+guest house
+
+Morges
+new_sentence
+
+WiFi
+new_sentence
+
+beach nearby
+new_sentence
+
+balcony
+with a view on the mountains
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Bex
+new_sentence
+
+go hiking
+new_sentence
+
+WiFi
+new_sentence
+
+swimming pool
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+chalet
+
+Lausanne
+new_sentence
+
+TV with cable channels
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+guest house
+
+Sainte-Croix
+new_sentence
+
+beach nearby
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+chalet
+
+Sainte-Croix
+new_sentence
+
+washing machine
+new_sentence
+
+TV with cable channels
+new_sentence
+
+massage center
+new_sentence
+
+lift
+new_sentence
+richiestautente
+guest house
+
+Saint-Cergue
+new_sentence
+
+massage center
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+guest house
+
+Villars-sur-Ollon
+new_sentence
+
+library
+new_sentence
+
+play table tennis
+new_sentence
+
+fitness centre
+new_sentence
+
+patio
+new_sentence
+richiestautente
+holiday home
+
+Bouveret
+new_sentence
+
+play in casino
+new_sentence
+
+garden
+new_sentence
+
+breakfast
+new_sentence
+richiestautente
+hostel
+
+Morges
+new_sentence
+
+WiFi
+new_sentence
+
+play table tennis
+new_sentence
+
+shuttle service
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Bouveret
+new_sentence
+
+sofa
+new_sentence
+
+minibar
+new_sentence
+
+toilet
+kitchen
+new_sentence
+richiestautente
+guest house
+
+Montreux
+new_sentence
+
+go cycling
+new_sentence
+
+TV
+new_sentence
+richiestautente
+hostel
+
+the airport
+new_sentence
+
+minibar
+refrigerator
+new_sentence
+
+garden
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+chalet
+
+Bex
+new_sentence
+
+CD player
+new_sentence
+
+private bathroom
+sofa
+new_sentence
+
+go cycling
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+guest house
+
+Villars-sur-Ollon
+new_sentence
+
+beach nearby
+with a view
+new_sentence
+
+DVD player
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Morges
+new_sentence
+
+24-hour reception
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+bed and breakfast
+
+Les Rasses
+new_sentence
+
+private bathroom
+sofa
+new_sentence
+
+microwave
+new_sentence
+
+patio
+with a view on the lake
+new_sentence
+richiestautente
+chalet
+
+Lausanne
+new_sentence
+
+breakfast
+restaurant
+new_sentence
+
+toilet
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+chalet
+
+Geneva
+new_sentence
+
+Hammam
+new_sentence
+
+play tennis
+new_sentence
+
+fitness centre
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+apartment
+
+Gryon
+new_sentence
+
+swimming pool
+new_sentence
+
+private bathroom
+sofa
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+guest house
+
+Montreux
+new_sentence
+
+children’s playground
+business centre
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+villa
+
+Villars-sur-Ollon
+new_sentence
+
+restaurant
+new_sentence
+
+fireplace
+new_sentence
+
+Hot Tub
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+hostel
+
+Les Rasses
+new_sentence
+
+fireplace
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+villa
+
+Geneva
+new_sentence
+
+parking spot
+new_sentence
+
+Hammam
+new_sentence
+
+go hiking
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+bed and breakfast
+
+Morges
+new_sentence
+
+swimming pool
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+24-hour reception
+breakfast
+new_sentence
+richiestautente
+hostel
+
+Arveyes
+new_sentence
+
+breakfast
+new_sentence
+
+business centre
+new_sentence
+
+laundry
+lift
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+hotel
+
+Sainte-Croix
+new_sentence
+
+kitchen
+new_sentence
+
+coffee machine
+bathroom with a bath
+new_sentence
+richiestautente
+hostel
+
+Leysin
+new_sentence
+
+play in casino
+new_sentence
+
+WiFi
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+holiday home
+
+Montreux
+new_sentence
+
+beach nearby
+with a view on the mountains
+new_sentence
+
+DVD player
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+villa
+
+Villeneuve
+new_sentence
+
+go skiing
+new_sentence
+
+patio
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Gryon
+new_sentence
+
+parking spot
+new_sentence
+
+TV
+new_sentence
+
+go hiking
+new_sentence
+
+24-hour reception
+new_sentence
+richiestautente
+hostel
+
+Saint-Cergue
+new_sentence
+
+Hot Tub
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+guest house
+
+Montreux
+new_sentence
+
+go cycling
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Les Diablerets
+new_sentence
+
+sofa
+new_sentence
+
+massage center
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+chalet
+
+Bex
+new_sentence
+
+laundry
+24-hour reception
+new_sentence
+
+Bath
+new_sentence
+
+Hot Tub
+new_sentence
+
+24-hour reception
+room services
+new_sentence
+richiestautente
+hotel
+
+Saint-Cergue
+new_sentence
+
+library
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+chalet
+
+Bellevue
+new_sentence
+
+massage center
+new_sentence
+
+play table tennis
+new_sentence
+
+washing machine
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+hotel
+
+Arveyes
+new_sentence
+
+refrigerator
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+hostel
+
+Saint-Cergue
+new_sentence
+
+hairdryer
+new_sentence
+
+restaurant
+business centre
+new_sentence
+
+TV
+new_sentence
+richiestautente
+guest house
+
+Yverdon-les-Bains
+new_sentence
+
+Sauna
+new_sentence
+
+business centre
+bar
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+hostel
+
+Chesières
+new_sentence
+
+parking spot
+laundry
+new_sentence
+
+swimming pool
+new_sentence
+
+breakfast
+bar
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+chalet
+
+Chateau-d’Oex
+new_sentence
+
+swimming pool
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Yverdon-les-Bains
+new_sentence
+
+terrace
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+hostel
+
+Bouveret
+new_sentence
+
+minibar
+new_sentence
+
+toilet
+new_sentence
+
+coffee machine
+private bathroom
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Arveyes
+new_sentence
+
+toilet
+new_sentence
+
+swimming pool
+new_sentence
+
+beach nearby
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+hostel
+
+Chateau-d’Oex
+new_sentence
+
+play tennis
+new_sentence
+
+toilet
+new_sentence
+
+fitness centre
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+chalet
+
+Bellevue
+new_sentence
+
+Sauna
+new_sentence
+
+garden
+with a view on the lake
+new_sentence
+
+swimming pool
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+hotel
+
+Villeneuve
+new_sentence
+
+play table tennis
+new_sentence
+
+garden
+new_sentence
+
+laundry
+new_sentence
+richiestautente
+guest house
+
+Bouveret
+new_sentence
+
+TV
+new_sentence
+
+TV
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+guest house
+
+Villars-sur-Ollon
+new_sentence
+
+washing machine
+new_sentence
+
+play in casino
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Lausanne
+new_sentence
+
+Hot Tub
+new_sentence
+
+toilet
+new_sentence
+
+garden
+new_sentence
+richiestautente
+villa
+
+Morges
+new_sentence
+
+patio
+new_sentence
+
+fitness centre
+new_sentence
+
+hairdryer
+new_sentence
+
+room services
+shuttle service
+new_sentence
+richiestautente
+villa
+
+Chesières
+new_sentence
+
+WiFi
+refrigerator
+new_sentence
+
+kitchen
+new_sentence
+
+sun terrace
+with a view
+new_sentence
+richiestautente
+hostel
+
+Chateau-d’Oex
+new_sentence
+
+fitness centre
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+guest house
+
+Rossinière
+new_sentence
+
+parking spot
+new_sentence
+
+massage center
+new_sentence
+
+kitchen
+air conditioning
+new_sentence
+richiestautente
+bed and breakfast
+
+Chateau-d’Oex
+new_sentence
+
+breakfast
+new_sentence
+
+business centre
+new_sentence
+
+24-hour reception
+new_sentence
+richiestautente
+guest house
+
+Lausanne
+new_sentence
+
+kitchen
+new_sentence
+
+desk
+new_sentence
+richiestautente
+bed and breakfast
+
+Villeneuve
+new_sentence
+
+refrigerator
+microwave
+new_sentence
+
+children’s playground
+ski school
+new_sentence
+
+bar
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+bed and breakfast
+
+Morges
+new_sentence
+
+Bath
+new_sentence
+
+swimming pool
+with a view
+new_sentence
+
+kitchen
+hairdryer
+new_sentence
+richiestautente
+guest house
+
+Rossinière
+new_sentence
+
+lift
+new_sentence
+
+swimming pool
+new_sentence
+
+business centre
+restaurant
+new_sentence
+richiestautente
+guest house
+
+Yverdon-les-Bains
+new_sentence
+
+Sauna
+new_sentence
+
+play tennis
+new_sentence
+
+children’s playground
+new_sentence
+richiestautente
+bed and breakfast
+
+Chateau-d’Oex
+new_sentence
+
+go skiing
+new_sentence
+
+sofa
+new_sentence
+
+do horse riding
+new_sentence
+
+hairdryer
+new_sentence
+richiestautente
+holiday home
+
+Montreux
+new_sentence
+
+restaurant
+new_sentence
+
+swimming pool
+new_sentence
+
+lift
+new_sentence
+richiestautente
+chalet
+
+the airport
+new_sentence
+
+CD player
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+chalet
+
+Nyon
+new_sentence
+
+fitness centre
+new_sentence
+
+breakfast
+new_sentence
+
+hairdryer
+new_sentence
+
+WiFi
+new_sentence
+richiestautente
+hotel
+
+Rossinière
+new_sentence
+
+children’s playground
+new_sentence
+
+sofa
+new_sentence
+
+play tennis
+new_sentence
+
+desk
+new_sentence
+richiestautente
+apartment
+
+Geneva
+new_sentence
+
+balcony
+new_sentence
+
+go skiing
+new_sentence
+
+sofa
+new_sentence
+
+room services
+lift
+new_sentence
+richiestautente
+villa
+
+Chateau-d’Oex
+new_sentence
+
+shuttle service
+new_sentence
+
+restaurant
+new_sentence
+richiestautente
+hostel
+
+the airport
+new_sentence
+
+business centre
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+hotel
+
+Arveyes
+new_sentence
+
+patio
+with a view on the lake
+new_sentence
+
+lift
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+guest house
+
+Gryon
+new_sentence
+
+kitchen
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+hotel
+
+Montreux
+new_sentence
+
+laundry
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+apartment
+
+Villars-sur-Ollon
+new_sentence
+
+Hot Tub
+new_sentence
+
+business centre
+room services
+new_sentence
+richiestautente
+villa
+
+Yverdon-les-Bains
+new_sentence
+
+play table tennis
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+fireplace
+new_sentence
+
+laundry
+new_sentence
+richiestautente
+bed and breakfast
+
+the airport
+new_sentence
+
+garden
+new_sentence
+
+TV
+new_sentence
+richiestautente
+hotel
+
+Saint-Cergue
+new_sentence
+
+minibar
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+bed and breakfast
+
+Bellevue
+new_sentence
+
+go skiing
+new_sentence
+
+laundry
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+guest house
+
+Bouveret
+new_sentence
+
+TV
+washing machine
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+guest house
+
+the airport
+new_sentence
+
+massage center
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+holiday home
+
+Lausanne
+new_sentence
+
+swimming pool
+new_sentence
+
+TV with cable channels
+new_sentence
+
+library
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chesières
+new_sentence
+
+bar
+new_sentence
+
+go skiing
+new_sentence
+
+children’s playground
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+bed and breakfast
+
+Yverdon-les-Bains
+new_sentence
+
+play in casino
+new_sentence
+
+go hiking
+new_sentence
+
+minibar
+coffee machine
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+villa
+
+Bouveret
+new_sentence
+
+TV
+new_sentence
+
+garden
+new_sentence
+
+coffee machine
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Montreux
+new_sentence
+
+breakfast
+room services
+new_sentence
+
+Hammam
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+hotel
+
+Montreux
+new_sentence
+
+go hiking
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+hostel
+
+Sainte-Croix
+new_sentence
+
+beach nearby
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+apartment
+
+Gryon
+new_sentence
+
+TV
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+hotel
+
+Yverdon-les-Bains
+new_sentence
+
+refrigerator
+new_sentence
+
+library
+new_sentence
+
+room services
+parking spot
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Vevey
+new_sentence
+
+parking spot
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+bed and breakfast
+
+Bellevue
+new_sentence
+
+refrigerator
+new_sentence
+
+washing machine
+new_sentence
+
+play tennis
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+hostel
+
+Morges
+new_sentence
+
+Hammam
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+chalet
+
+Montreux
+new_sentence
+
+DVD player
+new_sentence
+
+microwave
+new_sentence
+
+ski school
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+holiday home
+
+Villars-sur-Ollon
+new_sentence
+
+business centre
+new_sentence
+
+garden
+new_sentence
+
+sofa
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+bed and breakfast
+
+Rossinière
+new_sentence
+
+swimming pool
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+hotel
+
+Lausanne
+new_sentence
+
+beach nearby
+with a view on the lake
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+Sauna
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+hostel
+
+Villars-sur-Ollon
+new_sentence
+
+play table tennis
+new_sentence
+
+minibar
+new_sentence
+richiestautente
+holiday home
+
+Chateau-d’Oex
+new_sentence
+
+Sauna
+new_sentence
+
+parking spot
+new_sentence
+
+shuttle service
+new_sentence
+
+air conditioning
+new_sentence
+richiestautente
+villa
+
+Lausanne
+new_sentence
+
+bathroom with a bath
+coffee machine
+new_sentence
+
+WiFi
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+chalet
+
+Les Diablerets
+new_sentence
+
+beach nearby
+with a view on the mountains
+new_sentence
+
+go skiing
+new_sentence
+
+Safety Deposit Box
+breakfast
+new_sentence
+richiestautente
+hotel
+
+Bex
+new_sentence
+
+DVD player
+new_sentence
+
+do horse riding
+new_sentence
+
+air conditioning
+new_sentence
+richiestautente
+apartment
+
+Bex
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+library
+new_sentence
+
+patio
+with a view
+new_sentence
+richiestautente
+holiday home
+
+Arveyes
+new_sentence
+
+shuttle service
+new_sentence
+
+Hammam
+new_sentence
+
+do horse riding
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+guest house
+
+Bex
+new_sentence
+
+refrigerator
+air conditioning
+new_sentence
+
+WiFi
+bathroom with a bath
+new_sentence
+richiestautente
+hotel
+
+Vevey
+new_sentence
+
+WiFi
+new_sentence
+
+terrace
+new_sentence
+
+TV
+toilet
+new_sentence
+
+beach nearby
+with a view on the mountains
+new_sentence
+richiestautente
+chalet
+
+Chateau-d’Oex
+new_sentence
+
+lift
+new_sentence
+
+parking spot
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+the airport
+new_sentence
+
+room services
+shuttle service
+new_sentence
+
+play table tennis
+new_sentence
+
+business centre
+breakfast
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+holiday home
+
+Saint-Cergue
+new_sentence
+
+parking spot
+new_sentence
+
+minibar
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+holiday home
+
+Bouveret
+new_sentence
+
+DVD player
+new_sentence
+
+desk
+hairdryer
+new_sentence
+richiestautente
+guest house
+
+Nyon
+new_sentence
+
+do horse riding
+new_sentence
+
+WiFi
+coffee machine
+new_sentence
+richiestautente
+guest house
+
+Chateau-d’Oex
+new_sentence
+
+shuttle service
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+bed and breakfast
+
+Leysin
+new_sentence
+
+sofa
+new_sentence
+
+business centre
+new_sentence
+
+garden
+new_sentence
+
+coffee machine
+new_sentence
+richiestautente
+hostel
+
+Saint-Cergue
+new_sentence
+
+business centre
+new_sentence
+
+lift
+room services
+new_sentence
+
+coffee machine
+new_sentence
+richiestautente
+apartment
+
+Nyon
+new_sentence
+
+CD player
+new_sentence
+
+shuttle service
+new_sentence
+
+go skiing
+new_sentence
+richiestautente
+guest house
+
+Nyon
+new_sentence
+
+24-hour reception
+parking spot
+new_sentence
+
+TV with cable channels
+new_sentence
+richiestautente
+apartment
+
+Rossinière
+new_sentence
+
+sun terrace
+new_sentence
+
+shuttle service
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+villa
+
+Les Diablerets
+new_sentence
+
+lift
+business centre
+new_sentence
+
+garden
+new_sentence
+
+patio
+new_sentence
+
+washing machine
+new_sentence
+richiestautente
+holiday home
+
+Chesières
+new_sentence
+
+children’s playground
+shuttle service
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+chalet
+
+Bex
+new_sentence
+
+room services
+new_sentence
+
+CD player
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+bed and breakfast
+
+Bex
+new_sentence
+
+toilet
+new_sentence
+
+air conditioning
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+villa
+
+Saint-Cergue
+new_sentence
+
+kitchen
+new_sentence
+
+library
+new_sentence
+
+24-hour reception
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+hotel
+
+Les Diablerets
+new_sentence
+
+lift
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+hostel
+
+Les Rasses
+new_sentence
+
+DVD player
+new_sentence
+
+microwave
+refrigerator
+new_sentence
+richiestautente
+guest house
+
+Gryon
+new_sentence
+
+refrigerator
+air conditioning
+new_sentence
+
+refrigerator
+new_sentence
+
+TV
+new_sentence
+richiestautente
+apartment
+
+Les Rasses
+new_sentence
+
+TV with cable channels
+new_sentence
+
+sofa
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+bed and breakfast
+
+Nyon
+new_sentence
+
+restaurant
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+hostel
+
+Chesières
+new_sentence
+
+DVD player
+new_sentence
+
+terrace
+with a view
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+hostel
+
+Chesières
+new_sentence
+
+sofa
+new_sentence
+
+fireplace
+new_sentence
+
+business centre
+room services
+new_sentence
+richiestautente
+guest house
+
+Geneva
+new_sentence
+
+air conditioning
+new_sentence
+
+sun terrace
+new_sentence
+
+patio
+with a view
+new_sentence
+
+patio
+new_sentence
+richiestautente
+holiday home
+
+Geneva
+new_sentence
+
+fitness centre
+new_sentence
+
+desk
+microwave
+new_sentence
+richiestautente
+villa
+
+Montreux
+new_sentence
+
+play table tennis
+new_sentence
+
+sun terrace
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+chalet
+
+Villeneuve
+new_sentence
+
+microwave
+new_sentence
+
+air conditioning
+toilet
+new_sentence
+
+patio
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chateau-d’Oex
+new_sentence
+
+TV with cable channels
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+hotel
+
+Morges
+new_sentence
+
+TV
+new_sentence
+
+play in casino
+new_sentence
+
+sofa
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+holiday home
+
+Bellevue
+new_sentence
+
+Sauna
+new_sentence
+
+go skiing
+new_sentence
+richiestautente
+hostel
+
+Chateau-d’Oex
+new_sentence
+
+go hiking
+new_sentence
+
+terrace
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+holiday home
+
+Chesières
+new_sentence
+
+play table tennis
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+bed and breakfast
+
+Geneva
+new_sentence
+
+play in casino
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Lausanne
+new_sentence
+
+coffee machine
+new_sentence
+
+bar
+new_sentence
+
+desk
+new_sentence
+richiestautente
+bed and breakfast
+
+Bouveret
+new_sentence
+
+DVD player
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+hostel
+
+Vevey
+new_sentence
+
+balcony
+new_sentence
+
+minibar
+new_sentence
+
+terrace
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+hotel
+
+Montreux
+new_sentence
+
+ski school
+new_sentence
+
+Sauna
+new_sentence
+
+room services
+new_sentence
+richiestautente
+apartment
+
+Chateau-d’Oex
+new_sentence
+
+sun terrace
+new_sentence
+
+beach nearby
+new_sentence
+
+Bath
+new_sentence
+richiestautente
+hotel
+
+Gryon
+new_sentence
+
+room services
+bar
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+guest house
+
+Lausanne
+new_sentence
+
+breakfast
+parking spot
+new_sentence
+
+Hammam
+new_sentence
+
+shuttle service
+business centre
+new_sentence
+richiestautente
+holiday home
+
+Leysin
+new_sentence
+
+toilet
+microwave
+new_sentence
+
+parking spot
+new_sentence
+
+library
+new_sentence
+richiestautente
+guest house
+
+Montreux
+new_sentence
+
+library
+new_sentence
+
+room services
+new_sentence
+
+refrigerator
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+hotel
+
+Montreux
+new_sentence
+
+WiFi
+new_sentence
+
+TV with cable channels
+new_sentence
+richiestautente
+hostel
+
+Villars-sur-Ollon
+new_sentence
+
+WiFi
+new_sentence
+
+garden
+new_sentence
+richiestautente
+villa
+
+Leysin
+new_sentence
+
+business centre
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+chalet
+
+Sainte-Croix
+new_sentence
+
+bar
+new_sentence
+
+Bath
+new_sentence
+
+balcony
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+hotel
+
+Bellevue
+new_sentence
+
+Hot Tub
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+hostel
+
+Sainte-Croix
+new_sentence
+
+breakfast
+new_sentence
+
+kitchen
+new_sentence
+
+refrigerator
+new_sentence
+
+bathroom with a bath
+toilet
+new_sentence
+richiestautente
+bed and breakfast
+
+Leysin
+new_sentence
+
+balcony
+with a view on the lake
+new_sentence
+
+kitchen
+new_sentence
+
+Bath
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+villa
+
+Rossinière
+new_sentence
+
+TV
+desk
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+villa
+
+Arveyes
+new_sentence
+
+patio
+new_sentence
+
+air conditioning
+coffee machine
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+guest house
+
+the airport
+new_sentence
+
+minibar
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+villa
+
+Les Rasses
+new_sentence
+
+go cycling
+new_sentence
+
+garden
+new_sentence
+richiestautente
+holiday home
+
+Chesières
+new_sentence
+
+fitness centre
+new_sentence
+
+terrace
+new_sentence
+
+swimming pool
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+villa
+
+Nyon
+new_sentence
+
+shuttle service
+new_sentence
+
+refrigerator
+new_sentence
+
+microwave
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+hostel
+
+Lausanne
+new_sentence
+
+go cycling
+new_sentence
+
+beach nearby
+with a view on the lake
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+bed and breakfast
+
+Villars-sur-Ollon
+new_sentence
+
+refrigerator
+new_sentence
+
+refrigerator
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+holiday home
+
+Rossinière
+new_sentence
+
+balcony
+new_sentence
+
+toilet
+hairdryer
+new_sentence
+
+private bathroom
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+villa
+
+Yverdon-les-Bains
+new_sentence
+
+breakfast
+laundry
+new_sentence
+
+patio
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+chalet
+
+Nyon
+new_sentence
+
+play in casino
+new_sentence
+
+restaurant
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+hotel
+
+the airport
+new_sentence
+
+Hammam
+new_sentence
+
+breakfast
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Nyon
+new_sentence
+
+children’s playground
+new_sentence
+
+library
+new_sentence
+
+washing machine
+sofa
+new_sentence
+richiestautente
+guest house
+
+the airport
+new_sentence
+
+play in casino
+new_sentence
+
+laundry
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+bed and breakfast
+
+Bex
+new_sentence
+
+balcony
+new_sentence
+
+swimming pool
+new_sentence
+
+24-hour reception
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+villa
+
+Saint-Cergue
+new_sentence
+
+sofa
+new_sentence
+
+do horse riding
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+hostel
+
+Saint-Cergue
+new_sentence
+
+laundry
+new_sentence
+
+Sauna
+new_sentence
+
+washing machine
+private bathroom
+new_sentence
+
+garden
+with a view on the mountains
+new_sentence
+richiestautente
+guest house
+
+Lausanne
+new_sentence
+
+fitness centre
+new_sentence
+
+sofa
+new_sentence
+
+patio
+with a view on the lake
+new_sentence
+richiestautente
+apartment
+
+Morges
+new_sentence
+
+play tennis
+new_sentence
+
+bar
+new_sentence
+richiestautente
+bed and breakfast
+
+Arveyes
+new_sentence
+
+air conditioning
+microwave
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Morges
+new_sentence
+
+sofa
+new_sentence
+
+lift
+new_sentence
+richiestautente
+hotel
+
+Saint-Cergue
+new_sentence
+
+do horse riding
+new_sentence
+
+go hiking
+new_sentence
+
+bar
+new_sentence
+richiestautente
+apartment
+
+Lausanne
+new_sentence
+
+bar
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+holiday home
+
+Bex
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+hairdryer
+WiFi
+new_sentence
+
+washing machine
+new_sentence
+
+restaurant
+new_sentence
+richiestautente
+apartment
+
+Rossinière
+new_sentence
+
+24-hour reception
+restaurant
+new_sentence
+
+lift
+new_sentence
+
+go skiing
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+apartment
+
+Montreux
+new_sentence
+
+washing machine
+new_sentence
+
+Bath
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+villa
+
+Yverdon-les-Bains
+new_sentence
+
+room services
+new_sentence
+
+Bath
+new_sentence
+
+swimming pool
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+chalet
+
+Bouveret
+new_sentence
+
+swimming pool
+new_sentence
+
+balcony
+new_sentence
+
+beach nearby
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+holiday home
+
+Bex
+new_sentence
+
+hairdryer
+new_sentence
+
+breakfast
+new_sentence
+
+fitness centre
+new_sentence
+
+toilet
+new_sentence
+richiestautente
+holiday home
+
+Bouveret
+new_sentence
+
+WiFi
+new_sentence
+
+children’s playground
+new_sentence
+
+restaurant
+new_sentence
+richiestautente
+bed and breakfast
+
+Saint-Cergue
+new_sentence
+
+shuttle service
+new_sentence
+
+patio
+with a view on the lake
+new_sentence
+richiestautente
+chalet
+
+Chateau-d’Oex
+new_sentence
+
+sun terrace
+with a view on the lake
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+apartment
+
+Geneva
+new_sentence
+
+go hiking
+new_sentence
+
+washing machine
+minibar
+new_sentence
+richiestautente
+apartment
+
+Lausanne
+new_sentence
+
+fitness centre
+new_sentence
+
+swimming pool
+new_sentence
+
+WiFi
+private bathroom
+new_sentence
+richiestautente
+hostel
+
+Sainte-Croix
+new_sentence
+
+private bathroom
+new_sentence
+
+air conditioning
+sofa
+new_sentence
+
+Sauna
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Geneva
+new_sentence
+
+go hiking
+new_sentence
+
+beach nearby
+with a view
+new_sentence
+
+hairdryer
+new_sentence
+richiestautente
+chalet
+
+Morges
+new_sentence
+
+play table tennis
+new_sentence
+
+room services
+ski school
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+bed and breakfast
+
+Arveyes
+new_sentence
+
+swimming pool
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+hostel
+
+Gryon
+new_sentence
+
+private bathroom
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+chalet
+
+Gryon
+new_sentence
+
+massage center
+new_sentence
+
+minibar
+new_sentence
+
+sun terrace
+with a view on the mountains
+new_sentence
+richiestautente
+villa
+
+Bellevue
+new_sentence
+
+business centre
+new_sentence
+
+swimming pool
+with a view on the lake
+new_sentence
+
+sun terrace
+new_sentence
+
+library
+new_sentence
+richiestautente
+villa
+
+Les Rasses
+new_sentence
+
+ski school
+room services
+new_sentence
+
+ski school
+new_sentence
+
+play in casino
+new_sentence
+
+bar
+new_sentence
+richiestautente
+bed and breakfast
+
+Sainte-Croix
+new_sentence
+
+patio
+new_sentence
+
+washing machine
+microwave
+new_sentence
+
+24-hour reception
+new_sentence
+richiestautente
+hostel
+
+Villars-sur-Ollon
+new_sentence
+
+DVD player
+new_sentence
+
+TV
+minibar
+new_sentence
+
+patio
+with a view on the lake
+new_sentence
+richiestautente
+guest house
+
+Gryon
+new_sentence
+
+sofa
+new_sentence
+
+children’s playground
+new_sentence
+
+garden
+new_sentence
+richiestautente
+holiday home
+
+Geneva
+new_sentence
+
+sofa
+new_sentence
+
+restaurant
+new_sentence
+
+washing machine
+new_sentence
+
+go skiing
+new_sentence
+richiestautente
+chalet
+
+Nyon
+new_sentence
+
+kitchen
+new_sentence
+
+children’s playground
+new_sentence
+
+sun terrace
+with a view on the lake
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Bex
+new_sentence
+
+kitchen
+bathroom with a bath
+new_sentence
+
+library
+new_sentence
+
+play in casino
+new_sentence
+
+bar
+breakfast
+new_sentence
+richiestautente
+chalet
+
+Les Diablerets
+new_sentence
+
+business centre
+room services
+new_sentence
+
+balcony
+new_sentence
+
+24-hour reception
+new_sentence
+richiestautente
+holiday home
+
+Montreux
+new_sentence
+
+minibar
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+villa
+
+Leysin
+new_sentence
+
+WiFi
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+bed and breakfast
+
+Gryon
+new_sentence
+
+play in casino
+new_sentence
+
+DVD player
+new_sentence
+
+garden
+new_sentence
+richiestautente
+guest house
+
+the airport
+new_sentence
+
+Safety Deposit Box
+shuttle service
+new_sentence
+
+swimming pool
+with a view on the lake
+new_sentence
+
+go hiking
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+bed and breakfast
+
+Bex
+new_sentence
+
+24-hour reception
+new_sentence
+
+garden
+new_sentence
+richiestautente
+apartment
+
+Geneva
+new_sentence
+
+air conditioning
+new_sentence
+
+play in casino
+new_sentence
+
+Safety Deposit Box
+shuttle service
+new_sentence
+richiestautente
+bed and breakfast
+
+Vevey
+new_sentence
+
+do horse riding
+new_sentence
+
+balcony
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+hotel
+
+Vevey
+new_sentence
+
+terrace
+new_sentence
+
+do horse riding
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+apartment
+
+Les Rasses
+new_sentence
+
+desk
+new_sentence
+
+beach nearby
+new_sentence
+
+ski school
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chesières
+new_sentence
+
+microwave
+new_sentence
+
+children’s playground
+new_sentence
+
+washing machine
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+chalet
+
+Chesières
+new_sentence
+
+air conditioning
+new_sentence
+
+shuttle service
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+holiday home
+
+Morges
+new_sentence
+
+shuttle service
+new_sentence
+
+room services
+new_sentence
+
+bar
+new_sentence
+
+hairdryer
+new_sentence
+richiestautente
+holiday home
+
+Sainte-Croix
+new_sentence
+
+Hammam
+new_sentence
+
+Hammam
+new_sentence
+
+beach nearby
+with a view on the lake
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+hotel
+
+Geneva
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+kitchen
+hairdryer
+new_sentence
+
+children’s playground
+new_sentence
+
+go skiing
+new_sentence
+richiestautente
+hotel
+
+Bellevue
+new_sentence
+
+sofa
+new_sentence
+
+sun terrace
+new_sentence
+
+private bathroom
+new_sentence
+
+TV with cable channels
+new_sentence
+richiestautente
+chalet
+
+Nyon
+new_sentence
+
+air conditioning
+new_sentence
+
+fitness centre
+new_sentence
+
+TV with cable channels
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+apartment
+
+Morges
+new_sentence
+
+TV with cable channels
+new_sentence
+
+garden
+new_sentence
+
+TV
+new_sentence
+richiestautente
+hotel
+
+Morges
+new_sentence
+
+coffee machine
+new_sentence
+
+washing machine
+new_sentence
+
+Bath
+new_sentence
+
+24-hour reception
+shuttle service
+new_sentence
+richiestautente
+guest house
+
+Rossinière
+new_sentence
+
+garden
+new_sentence
+
+TV with cable channels
+new_sentence
+
+parking spot
+ski school
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+bed and breakfast
+
+Chateau-d’Oex
+new_sentence
+
+go cycling
+new_sentence
+
+balcony
+new_sentence
+
+kitchen
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+holiday home
+
+Bex
+new_sentence
+
+sun terrace
+new_sentence
+
+DVD player
+new_sentence
+
+washing machine
+new_sentence
+richiestautente
+hostel
+
+Saint-Cergue
+new_sentence
+
+WiFi
+new_sentence
+
+terrace
+new_sentence
+
+library
+new_sentence
+
+minibar
+new_sentence
+richiestautente
+guest house
+
+Vevey
+new_sentence
+
+library
+new_sentence
+
+sofa
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+hotel
+
+Bex
+new_sentence
+
+kitchen
+new_sentence
+
+DVD player
+new_sentence
+
+library
+new_sentence
+richiestautente
+villa
+
+Arveyes
+new_sentence
+
+24-hour reception
+new_sentence
+
+WiFi
+toilet
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+WiFi
+microwave
+new_sentence
+richiestautente
+hostel
+
+Villeneuve
+new_sentence
+
+go skiing
+new_sentence
+
+do horse riding
+new_sentence
+
+fitness centre
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+hostel
+
+the airport
+new_sentence
+
+CD player
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+guest house
+
+Saint-Cergue
+new_sentence
+
+go skiing
+new_sentence
+
+hairdryer
+new_sentence
+
+TV
+air conditioning
+new_sentence
+
+24-hour reception
+business centre
+new_sentence
+richiestautente
+chalet
+
+Villars-sur-Ollon
+new_sentence
+
+play tennis
+new_sentence
+
+TV
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+bed and breakfast
+
+Bex
+new_sentence
+
+sofa
+new_sentence
+
+Bath
+new_sentence
+richiestautente
+holiday home
+
+Chesières
+new_sentence
+
+sofa
+new_sentence
+
+go skiing
+new_sentence
+
+terrace
+with a view on the lake
+new_sentence
+richiestautente
+chalet
+
+Geneva
+new_sentence
+
+sofa
+new_sentence
+
+DVD player
+new_sentence
+
+lift
+parking spot
+new_sentence
+
+library
+new_sentence
+richiestautente
+hostel
+
+Les Rasses
+new_sentence
+
+go hiking
+new_sentence
+
+swimming pool
+with a view on the lake
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Vevey
+new_sentence
+
+fitness centre
+new_sentence
+
+library
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Gryon
+new_sentence
+
+toilet
+new_sentence
+
+terrace
+new_sentence
+
+go hiking
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+bed and breakfast
+
+Chesières
+new_sentence
+
+refrigerator
+sofa
+new_sentence
+
+do horse riding
+new_sentence
+
+restaurant
+new_sentence
+richiestautente
+bed and breakfast
+
+Geneva
+new_sentence
+
+fireplace
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+bed and breakfast
+
+Villeneuve
+new_sentence
+
+TV
+toilet
+new_sentence
+
+Hammam
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+bed and breakfast
+
+Arveyes
+new_sentence
+
+refrigerator
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+villa
+
+Les Rasses
+new_sentence
+
+coffee machine
+TV
+new_sentence
+
+hairdryer
+TV
+new_sentence
+
+room services
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Geneva
+new_sentence
+
+children’s playground
+new_sentence
+
+sun terrace
+with a view on the mountains
+new_sentence
+
+go skiing
+new_sentence
+
+desk
+new_sentence
+richiestautente
+hotel
+
+Saint-Cergue
+new_sentence
+
+laundry
+new_sentence
+
+bathroom with a bath
+hairdryer
+new_sentence
+richiestautente
+chalet
+
+Montreux
+new_sentence
+
+hairdryer
+new_sentence
+
+kitchen
+new_sentence
+
+kitchen
+toilet
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+chalet
+
+Morges
+new_sentence
+
+ski school
+Safety Deposit Box
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+apartment
+
+Villeneuve
+new_sentence
+
+kitchen
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+bed and breakfast
+
+Bex
+new_sentence
+
+breakfast
+new_sentence
+
+sofa
+new_sentence
+
+patio
+new_sentence
+richiestautente
+villa
+
+Montreux
+new_sentence
+
+balcony
+with a view on the mountains
+new_sentence
+
+play tennis
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+guest house
+
+Montreux
+new_sentence
+
+WiFi
+sofa
+new_sentence
+
+minibar
+desk
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+apartment
+
+Saint-Cergue
+new_sentence
+
+patio
+with a view
+new_sentence
+
+washing machine
+new_sentence
+richiestautente
+apartment
+
+Chesières
+new_sentence
+
+play tennis
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+guest house
+
+Yverdon-les-Bains
+new_sentence
+
+lift
+new_sentence
+
+library
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Bouveret
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+
+TV
+new_sentence
+
+room services
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+chalet
+
+Bex
+new_sentence
+
+do horse riding
+new_sentence
+
+terrace
+new_sentence
+
+toilet
+air conditioning
+new_sentence
+richiestautente
+apartment
+
+the airport
+new_sentence
+
+TV with cable channels
+new_sentence
+
+CD player
+new_sentence
+
+garden
+with a view on the mountains
+new_sentence
+
+room services
+restaurant
+new_sentence
+richiestautente
+chalet
+
+Bouveret
+new_sentence
+
+garden
+new_sentence
+
+bar
+new_sentence
+
+bar
+new_sentence
+richiestautente
+holiday home
+
+Sainte-Croix
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+shuttle service
+laundry
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+chalet
+
+Saint-Cergue
+new_sentence
+
+children’s playground
+24-hour reception
+new_sentence
+
+patio
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+villa
+
+Yverdon-les-Bains
+new_sentence
+
+WiFi
+new_sentence
+
+play tennis
+new_sentence
+
+toilet
+new_sentence
+
+bar
+new_sentence
+richiestautente
+bed and breakfast
+
+Gryon
+new_sentence
+
+hairdryer
+new_sentence
+
+Bath
+new_sentence
+richiestautente
+hotel
+
+Leysin
+new_sentence
+
+coffee machine
+new_sentence
+
+garden
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Montreux
+new_sentence
+
+beach nearby
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+bed and breakfast
+
+Nyon
+new_sentence
+
+business centre
+new_sentence
+
+balcony
+with a view on the lake
+new_sentence
+
+balcony
+new_sentence
+
+library
+new_sentence
+richiestautente
+hostel
+
+Lausanne
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+lift
+new_sentence
+
+beach nearby
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+chalet
+
+the airport
+new_sentence
+
+hairdryer
+toilet
+new_sentence
+
+laundry
+business centre
+new_sentence
+
+microwave
+desk
+new_sentence
+richiestautente
+guest house
+
+Les Diablerets
+new_sentence
+
+play tennis
+new_sentence
+
+CD player
+new_sentence
+
+sun terrace
+with a view
+new_sentence
+richiestautente
+guest house
+
+Geneva
+new_sentence
+
+go cycling
+new_sentence
+
+TV
+new_sentence
+richiestautente
+apartment
+
+Lausanne
+new_sentence
+
+fireplace
+new_sentence
+
+DVD player
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Gryon
+new_sentence
+
+fitness centre
+new_sentence
+
+garden
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chesières
+new_sentence
+
+shuttle service
+new_sentence
+
+refrigerator
+new_sentence
+
+children’s playground
+new_sentence
+
+TV with cable channels
+new_sentence
+richiestautente
+holiday home
+
+Bex
+new_sentence
+
+balcony
+new_sentence
+
+WiFi
+new_sentence
+
+refrigerator
+new_sentence
+
+restaurant
+breakfast
+new_sentence
+richiestautente
+hostel
+
+Chateau-d’Oex
+new_sentence
+
+patio
+new_sentence
+
+swimming pool
+with a view on the lake
+new_sentence
+richiestautente
+bed and breakfast
+
+Arveyes
+new_sentence
+
+TV with cable channels
+new_sentence
+
+swimming pool
+with a view
+new_sentence
+
+hairdryer
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Les Diablerets
+new_sentence
+
+coffee machine
+WiFi
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+apartment
+
+Sainte-Croix
+new_sentence
+
+massage center
+new_sentence
+
+garden
+with a view
+new_sentence
+
+private bathroom
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Arveyes
+new_sentence
+
+parking spot
+new_sentence
+
+go hiking
+new_sentence
+
+bathroom with a bath
+refrigerator
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Morges
+new_sentence
+
+CD player
+new_sentence
+
+hairdryer
+new_sentence
+richiestautente
+holiday home
+
+the airport
+new_sentence
+
+business centre
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Montreux
+new_sentence
+
+coffee machine
+washing machine
+new_sentence
+
+terrace
+new_sentence
+
+go skiing
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+hotel
+
+Vevey
+new_sentence
+
+do horse riding
+new_sentence
+
+TV
+hairdryer
+new_sentence
+
+restaurant
+new_sentence
+
+children’s playground
+new_sentence
+richiestautente
+chalet
+
+Gryon
+new_sentence
+
+restaurant
+new_sentence
+
+swimming pool
+with a view on the mountains
+new_sentence
+richiestautente
+bed and breakfast
+
+Villars-sur-Ollon
+new_sentence
+
+children’s playground
+new_sentence
+
+WiFi
+new_sentence
+richiestautente
+hotel
+
+Leysin
+new_sentence
+
+garden
+new_sentence
+
+garden
+new_sentence
+richiestautente
+guest house
+
+Les Rasses
+new_sentence
+
+play tennis
+new_sentence
+
+fitness centre
+new_sentence
+
+laundry
+new_sentence
+
+24-hour reception
+restaurant
+new_sentence
+richiestautente
+hotel
+
+Les Rasses
+new_sentence
+
+Sauna
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Morges
+new_sentence
+
+sun terrace
+with a view on the lake
+new_sentence
+
+sun terrace
+new_sentence
+
+room services
+new_sentence
+
+shuttle service
+24-hour reception
+new_sentence
+richiestautente
+bed and breakfast
+
+Gryon
+new_sentence
+
+Bath
+new_sentence
+
+play in casino
+new_sentence
+
+play table tennis
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+guest house
+
+Arveyes
+new_sentence
+
+toilet
+new_sentence
+
+garden
+with a view
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+villa
+
+Villars-sur-Ollon
+new_sentence
+
+breakfast
+new_sentence
+
+sofa
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+guest house
+
+Bex
+new_sentence
+
+restaurant
+new_sentence
+
+do horse riding
+new_sentence
+
+desk
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+bed and breakfast
+
+Leysin
+new_sentence
+
+lift
+new_sentence
+
+beach nearby
+new_sentence
+
+garden
+with a view
+new_sentence
+richiestautente
+bed and breakfast
+
+Nyon
+new_sentence
+
+toilet
+coffee machine
+new_sentence
+
+terrace
+new_sentence
+
+CD player
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+bed and breakfast
+
+Yverdon-les-Bains
+new_sentence
+
+parking spot
+new_sentence
+
+play in casino
+new_sentence
+
+minibar
+new_sentence
+
+swimming pool
+with a view on the lake
+new_sentence
+richiestautente
+holiday home
+
+Yverdon-les-Bains
+new_sentence
+
+WiFi
+kitchen
+new_sentence
+
+WiFi
+new_sentence
+
+swimming pool
+with a view on the mountains
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Leysin
+new_sentence
+
+private bathroom
+new_sentence
+
+coffee machine
+new_sentence
+
+patio
+new_sentence
+richiestautente
+apartment
+
+Arveyes
+new_sentence
+
+refrigerator
+new_sentence
+
+lift
+shuttle service
+new_sentence
+
+DVD player
+new_sentence
+
+WiFi
+new_sentence
+richiestautente
+guest house
+
+Montreux
+new_sentence
+
+go skiing
+new_sentence
+
+WiFi
+minibar
+new_sentence
+
+hairdryer
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Montreux
+new_sentence
+
+sofa
+new_sentence
+
+swimming pool
+with a view on the mountains
+new_sentence
+
+breakfast
+24-hour reception
+new_sentence
+richiestautente
+apartment
+
+the airport
+new_sentence
+
+Hammam
+new_sentence
+
+library
+new_sentence
+richiestautente
+chalet
+
+Leysin
+new_sentence
+
+DVD player
+new_sentence
+
+Bath
+new_sentence
+richiestautente
+chalet
+
+Chesières
+new_sentence
+
+bar
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Leysin
+new_sentence
+
+toilet
+microwave
+new_sentence
+
+CD player
+new_sentence
+
+Bath
+new_sentence
+richiestautente
+hostel
+
+Les Diablerets
+new_sentence
+
+bar
+new_sentence
+
+TV
+washing machine
+new_sentence
+richiestautente
+apartment
+
+Vevey
+new_sentence
+
+play in casino
+new_sentence
+
+Bath
+new_sentence
+richiestautente
+hostel
+
+Les Diablerets
+new_sentence
+
+Sauna
+new_sentence
+
+fireplace
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+hotel
+
+Les Diablerets
+new_sentence
+
+play tennis
+new_sentence
+
+WiFi
+new_sentence
+
+balcony
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+chalet
+
+Villars-sur-Ollon
+new_sentence
+
+sun terrace
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Vevey
+new_sentence
+
+sofa
+new_sentence
+
+bar
+new_sentence
+
+massage center
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+apartment
+
+Saint-Cergue
+new_sentence
+
+garden
+with a view on the mountains
+new_sentence
+
+restaurant
+new_sentence
+
+restaurant
+new_sentence
+
+fitness centre
+new_sentence
+richiestautente
+chalet
+
+Yverdon-les-Bains
+new_sentence
+
+room services
+bar
+new_sentence
+
+sofa
+new_sentence
+
+patio
+with a view
+new_sentence
+
+minibar
+new_sentence
+richiestautente
+holiday home
+
+Geneva
+new_sentence
+
+play table tennis
+new_sentence
+
+air conditioning
+coffee machine
+new_sentence
+
+24-hour reception
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Villars-sur-Ollon
+new_sentence
+
+24-hour reception
+new_sentence
+
+terrace
+new_sentence
+
+ski school
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+hotel
+
+the airport
+new_sentence
+
+TV with cable channels
+new_sentence
+
+garden
+new_sentence
+
+beach nearby
+with a view on the mountains
+new_sentence
+
+go skiing
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Gryon
+new_sentence
+
+desk
+new_sentence
+
+WiFi
+new_sentence
+
+business centre
+restaurant
+new_sentence
+richiestautente
+guest house
+
+Chateau-d’Oex
+new_sentence
+
+restaurant
+new_sentence
+
+Sauna
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+villa
+
+Arveyes
+new_sentence
+
+lift
+new_sentence
+
+Hot Tub
+new_sentence
+
+play in casino
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+richiestautente
+villa
+
+Lausanne
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+24-hour reception
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+holiday home
+
+Geneva
+new_sentence
+
+TV with cable channels
+new_sentence
+
+room services
+new_sentence
+
+children’s playground
+new_sentence
+richiestautente
+hostel
+
+Rossinière
+new_sentence
+
+ski school
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+hotel
+
+Morges
+new_sentence
+
+air conditioning
+new_sentence
+
+swimming pool
+new_sentence
+
+patio
+new_sentence
+richiestautente
+holiday home
+
+Chesières
+new_sentence
+
+play tennis
+new_sentence
+
+garden
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+villa
+
+Bouveret
+new_sentence
+
+laundry
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+holiday home
+
+Les Rasses
+new_sentence
+
+TV with cable channels
+new_sentence
+
+do horse riding
+new_sentence
+
+refrigerator
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+villa
+
+Vevey
+new_sentence
+
+children’s playground
+new_sentence
+
+swimming pool
+with a view
+new_sentence
+
+air conditioning
+new_sentence
+richiestautente
+hostel
+
+the airport
+new_sentence
+
+garden
+new_sentence
+
+garden
+new_sentence
+richiestautente
+villa
+
+Bouveret
+new_sentence
+
+hairdryer
+refrigerator
+new_sentence
+
+Bath
+new_sentence
+
+desk
+new_sentence
+
+bar
+new_sentence
+richiestautente
+bed and breakfast
+
+Nyon
+new_sentence
+
+lift
+business centre
+new_sentence
+
+room services
+bar
+new_sentence
+
+24-hour reception
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+hostel
+
+Montreux
+new_sentence
+
+fireplace
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Geneva
+new_sentence
+
+private bathroom
+new_sentence
+
+toilet
+new_sentence
+richiestautente
+hostel
+
+Villars-sur-Ollon
+new_sentence
+
+patio
+new_sentence
+
+swimming pool
+new_sentence
+
+shuttle service
+new_sentence
+
+coffee machine
+new_sentence
+richiestautente
+hotel
+
+Arveyes
+new_sentence
+
+private bathroom
+toilet
+new_sentence
+
+CD player
+new_sentence
+
+patio
+new_sentence
+
+coffee machine
+new_sentence
+richiestautente
+bed and breakfast
+
+Bouveret
+new_sentence
+
+refrigerator
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+hotel
+
+Bex
+new_sentence
+
+do horse riding
+new_sentence
+
+patio
+new_sentence
+
+balcony
+new_sentence
+
+beach nearby
+with a view on the lake
+new_sentence
+richiestautente
+bed and breakfast
+
+Bouveret
+new_sentence
+
+bar
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Villeneuve
+new_sentence
+
+swimming pool
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+villa
+
+Saint-Cergue
+new_sentence
+
+Hot Tub
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+the airport
+new_sentence
+
+garden
+with a view
+new_sentence
+
+garden
+new_sentence
+
+garden
+with a view on the mountains
+new_sentence
+richiestautente
+hotel
+
+Leysin
+new_sentence
+
+go hiking
+new_sentence
+
+library
+new_sentence
+
+hairdryer
+TV
+new_sentence
+richiestautente
+holiday home
+
+Sainte-Croix
+new_sentence
+
+refrigerator
+new_sentence
+
+shuttle service
+new_sentence
+
+bar
+new_sentence
+richiestautente
+apartment
+
+Arveyes
+new_sentence
+
+ski school
+new_sentence
+
+TV with cable channels
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Montreux
+new_sentence
+
+toilet
+new_sentence
+
+go hiking
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+garden
+new_sentence
+richiestautente
+holiday home
+
+Arveyes
+new_sentence
+
+TV with cable channels
+new_sentence
+
+terrace
+with a view
+new_sentence
+richiestautente
+guest house
+
+the airport
+new_sentence
+
+sofa
+new_sentence
+
+TV
+desk
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+villa
+
+Leysin
+new_sentence
+
+fireplace
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+villa
+
+Villars-sur-Ollon
+new_sentence
+
+sofa
+new_sentence
+
+TV with cable channels
+new_sentence
+
+breakfast
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+chalet
+
+Yverdon-les-Bains
+new_sentence
+
+play in casino
+new_sentence
+
+room services
+new_sentence
+richiestautente
+holiday home
+
+Saint-Cergue
+new_sentence
+
+patio
+new_sentence
+
+fitness centre
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Les Diablerets
+new_sentence
+
+sofa
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+richiestautente
+holiday home
+
+Yverdon-les-Bains
+new_sentence
+
+play tennis
+new_sentence
+
+Sauna
+new_sentence
+
+play in casino
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+hostel
+
+Chesières
+new_sentence
+
+fireplace
+new_sentence
+
+restaurant
+parking spot
+new_sentence
+
+room services
+new_sentence
+
+WiFi
+coffee machine
+new_sentence
+richiestautente
+hotel
+
+Les Diablerets
+new_sentence
+
+go cycling
+new_sentence
+
+lift
+new_sentence
+richiestautente
+hotel
+
+Villeneuve
+new_sentence
+
+play table tennis
+new_sentence
+
+breakfast
+new_sentence
+
+go hiking
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+holiday home
+
+Bellevue
+new_sentence
+
+air conditioning
+new_sentence
+
+shuttle service
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+guest house
+
+Villars-sur-Ollon
+new_sentence
+
+sun terrace
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+hostel
+
+Lausanne
+new_sentence
+
+business centre
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+holiday home
+
+Chesières
+new_sentence
+
+Sauna
+new_sentence
+
+patio
+with a view on the lake
+new_sentence
+
+washing machine
+new_sentence
+
+Bath
+new_sentence
+richiestautente
+bed and breakfast
+
+Saint-Cergue
+new_sentence
+
+DVD player
+new_sentence
+
+go skiing
+new_sentence
+
+ski school
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+chalet
+
+Yverdon-les-Bains
+new_sentence
+
+do horse riding
+new_sentence
+
+breakfast
+new_sentence
+
+business centre
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Lausanne
+new_sentence
+
+refrigerator
+new_sentence
+
+sofa
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+bed and breakfast
+
+Les Rasses
+new_sentence
+
+library
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+apartment
+
+Villars-sur-Ollon
+new_sentence
+
+terrace
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+chalet
+
+Sainte-Croix
+new_sentence
+
+play tennis
+new_sentence
+
+shuttle service
+parking spot
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Les Diablerets
+new_sentence
+
+bar
+new_sentence
+
+terrace
+new_sentence
+
+coffee machine
+new_sentence
+richiestautente
+guest house
+
+the airport
+new_sentence
+
+CD player
+new_sentence
+
+TV
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Arveyes
+new_sentence
+
+room services
+new_sentence
+
+hairdryer
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Bellevue
+new_sentence
+
+room services
+new_sentence
+
+swimming pool
+with a view
+new_sentence
+
+do horse riding
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+holiday home
+
+Chateau-d’Oex
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+library
+new_sentence
+richiestautente
+hotel
+
+Les Rasses
+new_sentence
+
+go skiing
+new_sentence
+
+shuttle service
+breakfast
+new_sentence
+
+hairdryer
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+apartment
+
+the airport
+new_sentence
+
+shuttle service
+new_sentence
+
+laundry
+24-hour reception
+new_sentence
+
+play in casino
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Montreux
+new_sentence
+
+terrace
+new_sentence
+
+shuttle service
+new_sentence
+
+sofa
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+hostel
+
+Les Diablerets
+new_sentence
+
+terrace
+new_sentence
+
+lift
+new_sentence
+richiestautente
+hostel
+
+Chateau-d’Oex
+new_sentence
+
+terrace
+with a view
+new_sentence
+
+balcony
+with a view on the lake
+new_sentence
+
+garden
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Les Diablerets
+new_sentence
+
+TV with cable channels
+new_sentence
+
+bar
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+apartment
+
+Lausanne
+new_sentence
+
+beach nearby
+new_sentence
+
+fitness centre
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+guest house
+
+Villars-sur-Ollon
+new_sentence
+
+private bathroom
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+chalet
+
+Leysin
+new_sentence
+
+coffee machine
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+chalet
+
+Villeneuve
+new_sentence
+
+garden
+with a view on the mountains
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+
+balcony
+with a view on the mountains
+new_sentence
+richiestautente
+chalet
+
+Saint-Cergue
+new_sentence
+
+Hot Tub
+new_sentence
+
+ski school
+new_sentence
+
+swimming pool
+with a view on the mountains
+new_sentence
+richiestautente
+holiday home
+
+Bellevue
+new_sentence
+
+balcony
+new_sentence
+
+24-hour reception
+new_sentence
+
+room services
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+villa
+
+the airport
+new_sentence
+
+do horse riding
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+bed and breakfast
+
+Chateau-d’Oex
+new_sentence
+
+lift
+business centre
+new_sentence
+
+garden
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Lausanne
+new_sentence
+
+hairdryer
+new_sentence
+
+swimming pool
+new_sentence
+
+Sauna
+new_sentence
+
+toilet
+refrigerator
+new_sentence
+richiestautente
+villa
+
+Montreux
+new_sentence
+
+lift
+new_sentence
+
+minibar
+new_sentence
+richiestautente
+hostel
+
+Bellevue
+new_sentence
+
+shuttle service
+business centre
+new_sentence
+
+shuttle service
+children’s playground
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+villa
+
+Montreux
+new_sentence
+
+terrace
+new_sentence
+
+beach nearby
+with a view on the mountains
+new_sentence
+
+restaurant
+new_sentence
+
+ski school
+Safety Deposit Box
+new_sentence
+richiestautente
+hotel
+
+Bouveret
+new_sentence
+
+air conditioning
+new_sentence
+
+library
+new_sentence
+
+swimming pool
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+villa
+
+Sainte-Croix
+new_sentence
+
+garden
+with a view on the lake
+new_sentence
+
+swimming pool
+new_sentence
+
+bar
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+apartment
+
+Saint-Cergue
+new_sentence
+
+kitchen
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+guest house
+
+Villeneuve
+new_sentence
+
+patio
+new_sentence
+
+refrigerator
+hairdryer
+new_sentence
+richiestautente
+bed and breakfast
+
+Leysin
+new_sentence
+
+refrigerator
+hairdryer
+new_sentence
+
+patio
+new_sentence
+richiestautente
+guest house
+
+Bellevue
+new_sentence
+
+24-hour reception
+new_sentence
+
+massage center
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Lausanne
+new_sentence
+
+kitchen
+new_sentence
+
+WiFi
+new_sentence
+
+TV
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+hostel
+
+Yverdon-les-Bains
+new_sentence
+
+ski school
+new_sentence
+
+room services
+business centre
+new_sentence
+richiestautente
+hostel
+
+Les Rasses
+new_sentence
+
+sofa
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+guest house
+
+Montreux
+new_sentence
+
+DVD player
+new_sentence
+
+minibar
+kitchen
+new_sentence
+
+lift
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+richiestautente
+apartment
+
+Leysin
+new_sentence
+
+Hammam
+new_sentence
+
+toilet
+new_sentence
+
+minibar
+new_sentence
+
+bar
+new_sentence
+richiestautente
+guest house
+
+Montreux
+new_sentence
+
+balcony
+new_sentence
+
+Sauna
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+hostel
+
+Chateau-d’Oex
+new_sentence
+
+balcony
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+hotel
+
+Vevey
+new_sentence
+
+ski school
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+villa
+
+Lausanne
+new_sentence
+
+Bath
+new_sentence
+
+shuttle service
+new_sentence
+
+kitchen
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+guest house
+
+Vevey
+new_sentence
+
+private bathroom
+coffee machine
+new_sentence
+
+Hot Tub
+new_sentence
+
+library
+new_sentence
+
+hairdryer
+refrigerator
+new_sentence
+richiestautente
+villa
+
+Lausanne
+new_sentence
+
+24-hour reception
+lift
+new_sentence
+
+balcony
+with a view on the mountains
+new_sentence
+richiestautente
+villa
+
+Morges
+new_sentence
+
+24-hour reception
+new_sentence
+
+room services
+new_sentence
+richiestautente
+guest house
+
+Les Diablerets
+new_sentence
+
+patio
+with a view
+new_sentence
+
+go cycling
+new_sentence
+
+swimming pool
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+apartment
+
+Villars-sur-Ollon
+new_sentence
+
+business centre
+new_sentence
+
+business centre
+bar
+new_sentence
+richiestautente
+guest house
+
+Arveyes
+new_sentence
+
+go skiing
+new_sentence
+
+breakfast
+children’s playground
+new_sentence
+
+parking spot
+shuttle service
+new_sentence
+richiestautente
+chalet
+
+Montreux
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+play table tennis
+new_sentence
+
+minibar
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+chalet
+
+Saint-Cergue
+new_sentence
+
+go skiing
+new_sentence
+
+sun terrace
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+hotel
+
+Leysin
+new_sentence
+
+play table tennis
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+apartment
+
+Les Diablerets
+new_sentence
+
+go hiking
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+villa
+
+Chateau-d’Oex
+new_sentence
+
+library
+new_sentence
+
+bathroom with a bath
+washing machine
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Bex
+new_sentence
+
+terrace
+with a view
+new_sentence
+
+air conditioning
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Arveyes
+new_sentence
+
+bar
+new_sentence
+
+TV
+WiFi
+new_sentence
+richiestautente
+holiday home
+
+Yverdon-les-Bains
+new_sentence
+
+ski school
+breakfast
+new_sentence
+
+breakfast
+new_sentence
+richiestautente
+apartment
+
+Chesières
+new_sentence
+
+lift
+parking spot
+new_sentence
+
+children’s playground
+ski school
+new_sentence
+richiestautente
+bed and breakfast
+
+Rossinière
+new_sentence
+
+Hot Tub
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+guest house
+
+Leysin
+new_sentence
+
+play table tennis
+new_sentence
+
+breakfast
+new_sentence
+
+massage center
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+apartment
+
+Bex
+new_sentence
+
+ski school
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+refrigerator
+hairdryer
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Montreux
+new_sentence
+
+do horse riding
+new_sentence
+
+microwave
+new_sentence
+
+room services
+ski school
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Sainte-Croix
+new_sentence
+
+toilet
+sofa
+new_sentence
+
+coffee machine
+desk
+new_sentence
+
+washing machine
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+holiday home
+
+Chateau-d’Oex
+new_sentence
+
+ski school
+new_sentence
+
+parking spot
+breakfast
+new_sentence
+richiestautente
+guest house
+
+Bellevue
+new_sentence
+
+coffee machine
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+villa
+
+Vevey
+new_sentence
+
+play in casino
+new_sentence
+
+laundry
+new_sentence
+
+play table tennis
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+apartment
+
+Bex
+new_sentence
+
+Bath
+new_sentence
+
+washing machine
+new_sentence
+richiestautente
+bed and breakfast
+
+Villeneuve
+new_sentence
+
+DVD player
+new_sentence
+
+lift
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+hotel
+
+Montreux
+new_sentence
+
+refrigerator
+new_sentence
+
+restaurant
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+villa
+
+Lausanne
+new_sentence
+
+sofa
+new_sentence
+
+toilet
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Villars-sur-Ollon
+new_sentence
+
+children’s playground
+new_sentence
+
+air conditioning
+new_sentence
+richiestautente
+bed and breakfast
+
+Les Diablerets
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+garden
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Sainte-Croix
+new_sentence
+
+play tennis
+new_sentence
+
+WiFi
+new_sentence
+richiestautente
+chalet
+
+Villeneuve
+new_sentence
+
+swimming pool
+new_sentence
+
+go skiing
+new_sentence
+
+garden
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+apartment
+
+Lausanne
+new_sentence
+
+ski school
+shuttle service
+new_sentence
+
+fitness centre
+new_sentence
+richiestautente
+holiday home
+
+Les Rasses
+new_sentence
+
+massage center
+new_sentence
+
+swimming pool
+new_sentence
+
+lift
+laundry
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Villeneuve
+new_sentence
+
+toilet
+new_sentence
+
+play tennis
+new_sentence
+
+room services
+new_sentence
+
+business centre
+ski school
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Lausanne
+new_sentence
+
+fireplace
+new_sentence
+
+bar
+new_sentence
+richiestautente
+hostel
+
+Les Rasses
+new_sentence
+
+CD player
+new_sentence
+
+play in casino
+new_sentence
+
+minibar
+bathroom with a bath
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+hostel
+
+Chesières
+new_sentence
+
+sun terrace
+new_sentence
+
+washing machine
+air conditioning
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Villars-sur-Ollon
+new_sentence
+
+go skiing
+new_sentence
+
+fitness centre
+new_sentence
+richiestautente
+guest house
+
+Morges
+new_sentence
+
+hairdryer
+washing machine
+new_sentence
+
+fitness centre
+new_sentence
+
+hairdryer
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+guest house
+
+Les Rasses
+new_sentence
+
+ski school
+new_sentence
+
+WiFi
+sofa
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Villars-sur-Ollon
+new_sentence
+
+WiFi
+washing machine
+new_sentence
+
+business centre
+new_sentence
+
+laundry
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+guest house
+
+Les Diablerets
+new_sentence
+
+air conditioning
+desk
+new_sentence
+
+room services
+new_sentence
+
+coffee machine
+new_sentence
+
+restaurant
+new_sentence
+richiestautente
+hotel
+
+Saint-Cergue
+new_sentence
+
+beach nearby
+with a view on the mountains
+new_sentence
+
+bar
+new_sentence
+richiestautente
+bed and breakfast
+
+Bellevue
+new_sentence
+
+swimming pool
+new_sentence
+
+business centre
+new_sentence
+
+garden
+new_sentence
+richiestautente
+guest house
+
+Chateau-d’Oex
+new_sentence
+
+breakfast
+new_sentence
+
+garden
+new_sentence
+richiestautente
+apartment
+
+Nyon
+new_sentence
+
+go cycling
+new_sentence
+
+bar
+new_sentence
+richiestautente
+holiday home
+
+Saint-Cergue
+new_sentence
+
+play table tennis
+new_sentence
+
+play tennis
+new_sentence
+
+go skiing
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chesières
+new_sentence
+
+garden
+new_sentence
+
+room services
+new_sentence
+
+swimming pool
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+villa
+
+Yverdon-les-Bains
+new_sentence
+
+toilet
+new_sentence
+
+swimming pool
+new_sentence
+
+breakfast
+new_sentence
+richiestautente
+hotel
+
+Leysin
+new_sentence
+
+microwave
+new_sentence
+
+balcony
+with a view
+new_sentence
+
+breakfast
+new_sentence
+richiestautente
+holiday home
+
+the airport
+new_sentence
+
+Hot Tub
+new_sentence
+
+balcony
+new_sentence
+
+terrace
+with a view
+new_sentence
+
+private bathroom
+bathroom with a bath
+new_sentence
+richiestautente
+villa
+
+Gryon
+new_sentence
+
+minibar
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+chalet
+
+Montreux
+new_sentence
+
+parking spot
+ski school
+new_sentence
+
+business centre
+new_sentence
+
+toilet
+new_sentence
+richiestautente
+bed and breakfast
+
+Gryon
+new_sentence
+
+swimming pool
+new_sentence
+
+Hammam
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+villa
+
+Lausanne
+new_sentence
+
+swimming pool
+new_sentence
+
+room services
+new_sentence
+richiestautente
+guest house
+
+Chateau-d’Oex
+new_sentence
+
+play in casino
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+hotel
+
+Chateau-d’Oex
+new_sentence
+
+TV with cable channels
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Morges
+new_sentence
+
+go hiking
+new_sentence
+
+restaurant
+new_sentence
+
+desk
+hairdryer
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+the airport
+new_sentence
+
+do horse riding
+new_sentence
+
+desk
+new_sentence
+richiestautente
+chalet
+
+Leysin
+new_sentence
+
+children’s playground
+shuttle service
+new_sentence
+
+lift
+new_sentence
+
+sofa
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+holiday home
+
+Chesières
+new_sentence
+
+patio
+new_sentence
+
+fireplace
+new_sentence
+
+minibar
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+villa
+
+Montreux
+new_sentence
+
+sofa
+new_sentence
+
+Sauna
+new_sentence
+
+parking spot
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+chalet
+
+Leysin
+new_sentence
+
+private bathroom
+new_sentence
+
+ski school
+breakfast
+new_sentence
+richiestautente
+hotel
+
+Montreux
+new_sentence
+
+swimming pool
+with a view on the lake
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+hostel
+
+Villeneuve
+new_sentence
+
+bathroom with a bath
+WiFi
+new_sentence
+
+swimming pool
+new_sentence
+
+minibar
+TV
+new_sentence
+richiestautente
+guest house
+
+Bex
+new_sentence
+
+play in casino
+new_sentence
+
+desk
+washing machine
+new_sentence
+
+toilet
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Morges
+new_sentence
+
+breakfast
+new_sentence
+
+bar
+new_sentence
+
+ski school
+new_sentence
+
+lift
+new_sentence
+richiestautente
+chalet
+
+Villeneuve
+new_sentence
+
+terrace
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+holiday home
+
+Bouveret
+new_sentence
+
+garden
+new_sentence
+
+washing machine
+refrigerator
+new_sentence
+richiestautente
+guest house
+
+Bellevue
+new_sentence
+
+go skiing
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+bed and breakfast
+
+Bex
+new_sentence
+
+business centre
+new_sentence
+
+parking spot
+new_sentence
+
+sofa
+new_sentence
+
+room services
+new_sentence
+richiestautente
+apartment
+
+Vevey
+new_sentence
+
+swimming pool
+new_sentence
+
+WiFi
+new_sentence
+
+WiFi
+new_sentence
+richiestautente
+bed and breakfast
+
+Les Diablerets
+new_sentence
+
+Hammam
+new_sentence
+
+CD player
+new_sentence
+
+washing machine
+sofa
+new_sentence
+richiestautente
+apartment
+
+Geneva
+new_sentence
+
+parking spot
+room services
+new_sentence
+
+breakfast
+new_sentence
+
+coffee machine
+bathroom with a bath
+new_sentence
+richiestautente
+holiday home
+
+Saint-Cergue
+new_sentence
+
+terrace
+with a view on the lake
+new_sentence
+
+minibar
+new_sentence
+
+air conditioning
+new_sentence
+richiestautente
+apartment
+
+Sainte-Croix
+new_sentence
+
+room services
+restaurant
+new_sentence
+
+WiFi
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+holiday home
+
+Lausanne
+new_sentence
+
+coffee machine
+new_sentence
+
+restaurant
+new_sentence
+
+ski school
+bar
+new_sentence
+richiestautente
+bed and breakfast
+
+Bouveret
+new_sentence
+
+toilet
+new_sentence
+
+breakfast
+ski school
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chesières
+new_sentence
+
+go hiking
+new_sentence
+
+patio
+new_sentence
+
+hairdryer
+desk
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Bouveret
+new_sentence
+
+desk
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+chalet
+
+Rossinière
+new_sentence
+
+play table tennis
+new_sentence
+
+fitness centre
+new_sentence
+
+restaurant
+lift
+new_sentence
+richiestautente
+holiday home
+
+Chateau-d’Oex
+new_sentence
+
+Bath
+new_sentence
+
+TV with cable channels
+new_sentence
+
+microwave
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+guest house
+
+Bex
+new_sentence
+
+private bathroom
+refrigerator
+new_sentence
+
+TV
+kitchen
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Villars-sur-Ollon
+new_sentence
+
+go skiing
+new_sentence
+
+beach nearby
+with a view on the mountains
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Arveyes
+new_sentence
+
+DVD player
+new_sentence
+
+DVD player
+new_sentence
+
+coffee machine
+minibar
+new_sentence
+richiestautente
+apartment
+
+Villars-sur-Ollon
+new_sentence
+
+massage center
+new_sentence
+
+laundry
+children’s playground
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chateau-d’Oex
+new_sentence
+
+private bathroom
+new_sentence
+
+do horse riding
+new_sentence
+
+sofa
+new_sentence
+
+restaurant
+parking spot
+new_sentence
+richiestautente
+guest house
+
+Saint-Cergue
+new_sentence
+
+terrace
+new_sentence
+
+children’s playground
+new_sentence
+richiestautente
+villa
+
+Saint-Cergue
+new_sentence
+
+parking spot
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+guest house
+
+the airport
+new_sentence
+
+go hiking
+new_sentence
+
+play table tennis
+new_sentence
+
+play tennis
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+hostel
+
+Arveyes
+new_sentence
+
+Sauna
+new_sentence
+
+sun terrace
+new_sentence
+
+microwave
+bathroom with a bath
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+hostel
+
+Saint-Cergue
+new_sentence
+
+sun terrace
+new_sentence
+
+TV
+new_sentence
+
+go cycling
+new_sentence
+
+children’s playground
+new_sentence
+richiestautente
+hostel
+
+Bellevue
+new_sentence
+
+24-hour reception
+new_sentence
+
+Hot Tub
+new_sentence
+
+CD player
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+holiday home
+
+Bellevue
+new_sentence
+
+air conditioning
+new_sentence
+
+fitness centre
+new_sentence
+
+play tennis
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+chalet
+
+Nyon
+new_sentence
+
+CD player
+new_sentence
+
+24-hour reception
+new_sentence
+
+play tennis
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+apartment
+
+Bouveret
+new_sentence
+
+sun terrace
+new_sentence
+
+swimming pool
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+bed and breakfast
+
+Lausanne
+new_sentence
+
+kitchen
+coffee machine
+new_sentence
+
+play in casino
+new_sentence
+
+private bathroom
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+villa
+
+Villeneuve
+new_sentence
+
+beach nearby
+new_sentence
+
+fitness centre
+new_sentence
+
+toilet
+new_sentence
+richiestautente
+holiday home
+
+Gryon
+new_sentence
+
+library
+new_sentence
+
+balcony
+with a view on the lake
+new_sentence
+
+Bath
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Lausanne
+new_sentence
+
+toilet
+new_sentence
+
+Bath
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+chalet
+
+Bellevue
+new_sentence
+
+swimming pool
+new_sentence
+
+play in casino
+new_sentence
+
+sun terrace
+with a view on the lake
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+chalet
+
+Arveyes
+new_sentence
+
+toilet
+private bathroom
+new_sentence
+
+minibar
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+apartment
+
+Les Diablerets
+new_sentence
+
+bathroom with a bath
+WiFi
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+apartment
+
+Rossinière
+new_sentence
+
+fireplace
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+the airport
+new_sentence
+
+24-hour reception
+shuttle service
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+apartment
+
+Montreux
+new_sentence
+
+Hammam
+new_sentence
+
+WiFi
+new_sentence
+
+patio
+new_sentence
+richiestautente
+chalet
+
+Bex
+new_sentence
+
+coffee machine
+new_sentence
+
+minibar
+toilet
+new_sentence
+
+bathroom with a bath
+sofa
+new_sentence
+richiestautente
+villa
+
+Villars-sur-Ollon
+new_sentence
+
+TV with cable channels
+new_sentence
+
+bar
+new_sentence
+
+balcony
+with a view on the lake
+new_sentence
+richiestautente
+bed and breakfast
+
+Morges
+new_sentence
+
+toilet
+new_sentence
+
+desk
+new_sentence
+richiestautente
+bed and breakfast
+
+Montreux
+new_sentence
+
+swimming pool
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+guest house
+
+Sainte-Croix
+new_sentence
+
+desk
+new_sentence
+
+garden
+new_sentence
+richiestautente
+hostel
+
+Chesières
+new_sentence
+
+CD player
+new_sentence
+
+TV
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+holiday home
+
+Arveyes
+new_sentence
+
+refrigerator
+new_sentence
+
+shuttle service
+children’s playground
+new_sentence
+
+sofa
+new_sentence
+
+toilet
+new_sentence
+richiestautente
+villa
+
+Vevey
+new_sentence
+
+balcony
+new_sentence
+
+swimming pool
+new_sentence
+
+garden
+new_sentence
+richiestautente
+guest house
+
+Chateau-d’Oex
+new_sentence
+
+garden
+new_sentence
+
+room services
+new_sentence
+richiestautente
+holiday home
+
+Morges
+new_sentence
+
+Bath
+new_sentence
+
+go cycling
+new_sentence
+
+desk
+new_sentence
+richiestautente
+hotel
+
+Bouveret
+new_sentence
+
+Hot Tub
+new_sentence
+
+WiFi
+new_sentence
+
+ski school
+24-hour reception
+new_sentence
+
+patio
+with a view on the lake
+new_sentence
+richiestautente
+bed and breakfast
+
+Les Diablerets
+new_sentence
+
+room services
+new_sentence
+
+private bathroom
+sofa
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Sainte-Croix
+new_sentence
+
+private bathroom
+hairdryer
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+hostel
+
+Chesières
+new_sentence
+
+desk
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Nyon
+new_sentence
+
+massage center
+new_sentence
+
+WiFi
+sofa
+new_sentence
+
+fitness centre
+new_sentence
+richiestautente
+hostel
+
+Montreux
+new_sentence
+
+play tennis
+new_sentence
+
+shuttle service
+new_sentence
+
+washing machine
+sofa
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+holiday home
+
+Saint-Cergue
+new_sentence
+
+library
+new_sentence
+
+children’s playground
+business centre
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+apartment
+
+Morges
+new_sentence
+
+swimming pool
+new_sentence
+
+hairdryer
+new_sentence
+
+microwave
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+villa
+
+Lausanne
+new_sentence
+
+hairdryer
+WiFi
+new_sentence
+
+hairdryer
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Arveyes
+new_sentence
+
+coffee machine
+air conditioning
+new_sentence
+
+patio
+with a view on the lake
+new_sentence
+
+swimming pool
+with a view
+new_sentence
+
+patio
+new_sentence
+richiestautente
+villa
+
+Chesières
+new_sentence
+
+microwave
+new_sentence
+
+library
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+chalet
+
+Bex
+new_sentence
+
+sun terrace
+new_sentence
+
+fitness centre
+new_sentence
+
+go hiking
+new_sentence
+
+lift
+room services
+new_sentence
+richiestautente
+chalet
+
+Rossinière
+new_sentence
+
+microwave
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Yverdon-les-Bains
+new_sentence
+
+terrace
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+guest house
+
+Chesières
+new_sentence
+
+breakfast
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Yverdon-les-Bains
+new_sentence
+
+laundry
+new_sentence
+
+washing machine
+sofa
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Villeneuve
+new_sentence
+
+WiFi
+new_sentence
+
+refrigerator
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+villa
+
+Geneva
+new_sentence
+
+room services
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+hostel
+
+Geneva
+new_sentence
+
+ski school
+new_sentence
+
+patio
+new_sentence
+
+garden
+new_sentence
+
+lift
+new_sentence
+richiestautente
+guest house
+
+Villars-sur-Ollon
+new_sentence
+
+go cycling
+new_sentence
+
+shuttle service
+bar
+new_sentence
+richiestautente
+hostel
+
+Villeneuve
+new_sentence
+
+ski school
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+apartment
+
+Villars-sur-Ollon
+new_sentence
+
+Sauna
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+villa
+
+Saint-Cergue
+new_sentence
+
+ski school
+new_sentence
+
+massage center
+new_sentence
+
+CD player
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+apartment
+
+the airport
+new_sentence
+
+garden
+with a view on the lake
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+hostel
+
+Les Diablerets
+new_sentence
+
+fitness centre
+new_sentence
+
+bar
+Safety Deposit Box
+new_sentence
+
+Bath
+new_sentence
+richiestautente
+hostel
+
+Montreux
+new_sentence
+
+TV with cable channels
+new_sentence
+
+children’s playground
+new_sentence
+
+air conditioning
+new_sentence
+
+24-hour reception
+new_sentence
+richiestautente
+hotel
+
+Yverdon-les-Bains
+new_sentence
+
+Hot Tub
+new_sentence
+
+microwave
+washing machine
+new_sentence
+
+ski school
+breakfast
+new_sentence
+richiestautente
+holiday home
+
+the airport
+new_sentence
+
+toilet
+new_sentence
+
+library
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+holiday home
+
+Gryon
+new_sentence
+
+sofa
+new_sentence
+
+Safety Deposit Box
+shuttle service
+new_sentence
+
+bar
+new_sentence
+
+ski school
+laundry
+new_sentence
+richiestautente
+hotel
+
+the airport
+new_sentence
+
+refrigerator
+new_sentence
+
+swimming pool
+new_sentence
+
+WiFi
+sofa
+new_sentence
+
+private bathroom
+desk
+new_sentence
+richiestautente
+apartment
+
+Leysin
+new_sentence
+
+ski school
+new_sentence
+
+restaurant
+lift
+new_sentence
+richiestautente
+villa
+
+Montreux
+new_sentence
+
+restaurant
+new_sentence
+
+fitness centre
+new_sentence
+
+Safety Deposit Box
+children’s playground
+new_sentence
+richiestautente
+villa
+
+Nyon
+new_sentence
+
+do horse riding
+new_sentence
+
+garden
+new_sentence
+
+coffee machine
+private bathroom
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+villa
+
+Bouveret
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+DVD player
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+apartment
+
+Nyon
+new_sentence
+
+go cycling
+new_sentence
+
+TV with cable channels
+new_sentence
+
+ski school
+breakfast
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Lausanne
+new_sentence
+
+garden
+new_sentence
+
+bar
+new_sentence
+
+Bath
+new_sentence
+
+sun terrace
+with a view on the lake
+new_sentence
+richiestautente
+bed and breakfast
+
+Geneva
+new_sentence
+
+children’s playground
+Safety Deposit Box
+new_sentence
+
+garden
+with a view on the mountains
+new_sentence
+
+garden
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+apartment
+
+Morges
+new_sentence
+
+air conditioning
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+chalet
+
+Gryon
+new_sentence
+
+swimming pool
+new_sentence
+
+toilet
+new_sentence
+richiestautente
+holiday home
+
+Les Rasses
+new_sentence
+
+Hammam
+new_sentence
+
+go cycling
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Les Diablerets
+new_sentence
+
+Bath
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+hotel
+
+Nyon
+new_sentence
+
+bathroom with a bath
+minibar
+new_sentence
+
+terrace
+with a view
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+chalet
+
+Bellevue
+new_sentence
+
+parking spot
+new_sentence
+
+TV
+WiFi
+new_sentence
+richiestautente
+guest house
+
+Vevey
+new_sentence
+
+play tennis
+new_sentence
+
+children’s playground
+new_sentence
+richiestautente
+hostel
+
+Bellevue
+new_sentence
+
+sofa
+new_sentence
+
+WiFi
+private bathroom
+new_sentence
+
+WiFi
+new_sentence
+richiestautente
+holiday home
+
+Les Diablerets
+new_sentence
+
+sofa
+new_sentence
+
+beach nearby
+with a view on the mountains
+new_sentence
+
+parking spot
+breakfast
+new_sentence
+
+laundry
+lift
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Montreux
+new_sentence
+
+beach nearby
+new_sentence
+
+lift
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+chalet
+
+Arveyes
+new_sentence
+
+garden
+new_sentence
+
+business centre
+24-hour reception
+new_sentence
+
+desk
+washing machine
+new_sentence
+richiestautente
+holiday home
+
+Gryon
+new_sentence
+
+breakfast
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+apartment
+
+Chateau-d’Oex
+new_sentence
+
+go cycling
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+guest house
+
+Villars-sur-Ollon
+new_sentence
+
+Hammam
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+hostel
+
+Les Rasses
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+guest house
+
+Geneva
+new_sentence
+
+private bathroom
+new_sentence
+
+massage center
+new_sentence
+
+hairdryer
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+holiday home
+
+Geneva
+new_sentence
+
+TV
+microwave
+new_sentence
+
+swimming pool
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+holiday home
+
+Villeneuve
+new_sentence
+
+garden
+with a view
+new_sentence
+
+lift
+new_sentence
+
+Bath
+new_sentence
+richiestautente
+apartment
+
+Arveyes
+new_sentence
+
+go skiing
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+guest house
+
+Les Diablerets
+new_sentence
+
+swimming pool
+with a view on the mountains
+new_sentence
+
+bar
+room services
+new_sentence
+
+parking spot
+ski school
+new_sentence
+richiestautente
+hotel
+
+Leysin
+new_sentence
+
+bar
+new_sentence
+
+library
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+holiday home
+
+Rossinière
+new_sentence
+
+kitchen
+private bathroom
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+hotel
+
+Villeneuve
+new_sentence
+
+sun terrace
+with a view on the lake
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+bed and breakfast
+
+Leysin
+new_sentence
+
+TV
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+hostel
+
+Chesières
+new_sentence
+
+garden
+new_sentence
+
+24-hour reception
+new_sentence
+
+beach nearby
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Villars-sur-Ollon
+new_sentence
+
+Bath
+new_sentence
+
+bar
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+apartment
+
+Les Diablerets
+new_sentence
+
+play tennis
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+hostel
+
+Gryon
+new_sentence
+
+washing machine
+new_sentence
+
+play tennis
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+guest house
+
+Bouveret
+new_sentence
+
+children’s playground
+24-hour reception
+new_sentence
+
+go hiking
+new_sentence
+
+go hiking
+new_sentence
+
+minibar
+new_sentence
+richiestautente
+villa
+
+Nyon
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+
+ski school
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+apartment
+
+Les Rasses
+new_sentence
+
+Bath
+new_sentence
+
+ski school
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Montreux
+new_sentence
+
+shuttle service
+breakfast
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+apartment
+
+Vevey
+new_sentence
+
+private bathroom
+new_sentence
+
+room services
+new_sentence
+richiestautente
+hostel
+
+Chesières
+new_sentence
+
+Hammam
+new_sentence
+
+laundry
+new_sentence
+
+Hammam
+new_sentence
+
+patio
+new_sentence
+richiestautente
+apartment
+
+Les Diablerets
+new_sentence
+
+24-hour reception
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+guest house
+
+Sainte-Croix
+new_sentence
+
+business centre
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+bed and breakfast
+
+Les Diablerets
+new_sentence
+
+hairdryer
+desk
+new_sentence
+
+patio
+new_sentence
+richiestautente
+holiday home
+
+Yverdon-les-Bains
+new_sentence
+
+kitchen
+refrigerator
+new_sentence
+
+restaurant
+new_sentence
+
+washing machine
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chesières
+new_sentence
+
+swimming pool
+new_sentence
+
+swimming pool
+new_sentence
+
+toilet
+new_sentence
+richiestautente
+guest house
+
+Gryon
+new_sentence
+
+toilet
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Sainte-Croix
+new_sentence
+
+beach nearby
+with a view on the lake
+new_sentence
+
+terrace
+with a view
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+bed and breakfast
+
+Leysin
+new_sentence
+
+terrace
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+hostel
+
+Sainte-Croix
+new_sentence
+
+swimming pool
+new_sentence
+
+coffee machine
+washing machine
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+holiday home
+
+Vevey
+new_sentence
+
+TV with cable channels
+new_sentence
+
+garden
+new_sentence
+
+TV
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+apartment
+
+Montreux
+new_sentence
+
+DVD player
+new_sentence
+
+library
+new_sentence
+
+swimming pool
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+guest house
+
+Arveyes
+new_sentence
+
+go hiking
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+bed and breakfast
+
+Arveyes
+new_sentence
+
+go skiing
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+holiday home
+
+Morges
+new_sentence
+
+TV
+desk
+new_sentence
+
+washing machine
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+bed and breakfast
+
+Vevey
+new_sentence
+
+toilet
+refrigerator
+new_sentence
+
+TV
+kitchen
+new_sentence
+
+Bath
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+hotel
+
+the airport
+new_sentence
+
+washing machine
+new_sentence
+
+refrigerator
+new_sentence
+
+patio
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+holiday home
+
+Geneva
+new_sentence
+
+terrace
+new_sentence
+
+laundry
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+hotel
+
+Gryon
+new_sentence
+
+terrace
+new_sentence
+
+go hiking
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+chalet
+
+Saint-Cergue
+new_sentence
+
+coffee machine
+new_sentence
+
+sofa
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+hostel
+
+the airport
+new_sentence
+
+go cycling
+new_sentence
+
+restaurant
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+apartment
+
+Chesières
+new_sentence
+
+parking spot
+new_sentence
+
+Sauna
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+apartment
+
+Sainte-Croix
+new_sentence
+
+patio
+new_sentence
+
+toilet
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+villa
+
+the airport
+new_sentence
+
+play in casino
+new_sentence
+
+CD player
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+chalet
+
+Lausanne
+new_sentence
+
+24-hour reception
+new_sentence
+
+garden
+new_sentence
+richiestautente
+guest house
+
+Les Rasses
+new_sentence
+
+Hammam
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+bed and breakfast
+
+Saint-Cergue
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+desk
+new_sentence
+richiestautente
+hotel
+
+Villeneuve
+new_sentence
+
+massage center
+new_sentence
+
+massage center
+new_sentence
+
+breakfast
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+hostel
+
+Vevey
+new_sentence
+
+do horse riding
+new_sentence
+
+terrace
+new_sentence
+
+lift
+new_sentence
+
+toilet
+washing machine
+new_sentence
+richiestautente
+villa
+
+Bouveret
+new_sentence
+
+go skiing
+new_sentence
+
+Bath
+new_sentence
+
+sofa
+new_sentence
+
+coffee machine
+new_sentence
+richiestautente
+villa
+
+Rossinière
+new_sentence
+
+do horse riding
+new_sentence
+
+TV
+new_sentence
+
+air conditioning
+toilet
+new_sentence
+richiestautente
+bed and breakfast
+
+Nyon
+new_sentence
+
+room services
+business centre
+new_sentence
+
+laundry
+new_sentence
+richiestautente
+guest house
+
+Sainte-Croix
+new_sentence
+
+sofa
+new_sentence
+
+beach nearby
+new_sentence
+
+play table tennis
+new_sentence
+
+Safety Deposit Box
+parking spot
+new_sentence
+richiestautente
+holiday home
+
+Chesières
+new_sentence
+
+library
+new_sentence
+
+swimming pool
+with a view
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+holiday home
+
+Bellevue
+new_sentence
+
+children’s playground
+bar
+new_sentence
+
+coffee machine
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+bed and breakfast
+
+Rossinière
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+play tennis
+new_sentence
+
+sofa
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+hostel
+
+Leysin
+new_sentence
+
+swimming pool
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+refrigerator
+new_sentence
+
+patio
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Lausanne
+new_sentence
+
+library
+new_sentence
+
+parking spot
+new_sentence
+
+Safety Deposit Box
+bar
+new_sentence
+
+sun terrace
+with a view on the lake
+new_sentence
+richiestautente
+villa
+
+Nyon
+new_sentence
+
+coffee machine
+new_sentence
+
+washing machine
+TV
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+holiday home
+
+Morges
+new_sentence
+
+parking spot
+shuttle service
+new_sentence
+
+CD player
+new_sentence
+
+beach nearby
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+bed and breakfast
+
+Bouveret
+new_sentence
+
+24-hour reception
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+holiday home
+
+Les Diablerets
+new_sentence
+
+do horse riding
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+villa
+
+Vevey
+new_sentence
+
+hairdryer
+new_sentence
+
+patio
+new_sentence
+
+Safety Deposit Box
+24-hour reception
+new_sentence
+richiestautente
+holiday home
+
+Bex
+new_sentence
+
+play tennis
+new_sentence
+
+restaurant
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+holiday home
+
+Lausanne
+new_sentence
+
+WiFi
+new_sentence
+
+TV with cable channels
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+villa
+
+Chateau-d’Oex
+new_sentence
+
+garden
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+chalet
+
+Bex
+new_sentence
+
+Sauna
+new_sentence
+
+WiFi
+hairdryer
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+hostel
+
+Sainte-Croix
+new_sentence
+
+Bath
+new_sentence
+
+play in casino
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+villa
+
+Les Diablerets
+new_sentence
+
+Hammam
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+holiday home
+
+Les Rasses
+new_sentence
+
+TV with cable channels
+new_sentence
+
+Hot Tub
+new_sentence
+
+sofa
+new_sentence
+
+bathroom with a bath
+microwave
+new_sentence
+richiestautente
+hotel
+
+Sainte-Croix
+new_sentence
+
+lift
+new_sentence
+
+shuttle service
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+hotel
+
+Bouveret
+new_sentence
+
+bar
+new_sentence
+
+go hiking
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+bed and breakfast
+
+Yverdon-les-Bains
+new_sentence
+
+room services
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+hostel
+
+Chesières
+new_sentence
+
+private bathroom
+new_sentence
+
+toilet
+new_sentence
+richiestautente
+bed and breakfast
+
+Leysin
+new_sentence
+
+Safety Deposit Box
+lift
+new_sentence
+
+parking spot
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+chalet
+
+Arveyes
+new_sentence
+
+parking spot
+bar
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+hotel
+
+Leysin
+new_sentence
+
+WiFi
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chateau-d’Oex
+new_sentence
+
+play table tennis
+new_sentence
+
+TV with cable channels
+new_sentence
+richiestautente
+holiday home
+
+Saint-Cergue
+new_sentence
+
+bar
+ski school
+new_sentence
+
+toilet
+washing machine
+new_sentence
+
+sun terrace
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+hotel
+
+Montreux
+new_sentence
+
+minibar
+microwave
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+apartment
+
+Les Diablerets
+new_sentence
+
+desk
+new_sentence
+
+hairdryer
+coffee machine
+new_sentence
+
+room services
+new_sentence
+richiestautente
+apartment
+
+Bellevue
+new_sentence
+
+laundry
+new_sentence
+
+balcony
+with a view
+new_sentence
+
+beach nearby
+with a view
+new_sentence
+richiestautente
+villa
+
+Geneva
+new_sentence
+
+kitchen
+new_sentence
+
+toilet
+private bathroom
+new_sentence
+
+patio
+new_sentence
+richiestautente
+holiday home
+
+Saint-Cergue
+new_sentence
+
+lift
+new_sentence
+
+bathroom with a bath
+private bathroom
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Geneva
+new_sentence
+
+24-hour reception
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+bed and breakfast
+
+Chesières
+new_sentence
+
+play in casino
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+villa
+
+Les Diablerets
+new_sentence
+
+toilet
+new_sentence
+
+Hot Tub
+new_sentence
+
+shuttle service
+new_sentence
+
+lift
+new_sentence
+richiestautente
+hostel
+
+Villars-sur-Ollon
+new_sentence
+
+CD player
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+hotel
+
+Leysin
+new_sentence
+
+play tennis
+new_sentence
+
+private bathroom
+refrigerator
+new_sentence
+
+TV with cable channels
+new_sentence
+
+24-hour reception
+new_sentence
+richiestautente
+villa
+
+Villeneuve
+new_sentence
+
+desk
+microwave
+new_sentence
+
+Hammam
+new_sentence
+
+TV
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Sainte-Croix
+new_sentence
+
+fireplace
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+bed and breakfast
+
+Geneva
+new_sentence
+
+breakfast
+new_sentence
+
+shuttle service
+new_sentence
+
+hairdryer
+new_sentence
+
+fitness centre
+new_sentence
+richiestautente
+bed and breakfast
+
+Rossinière
+new_sentence
+
+desk
+new_sentence
+
+children’s playground
+restaurant
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+hostel
+
+Les Rasses
+new_sentence
+
+beach nearby
+new_sentence
+
+beach nearby
+new_sentence
+
+sofa
+new_sentence
+
+toilet
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Montreux
+new_sentence
+
+breakfast
+new_sentence
+
+patio
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Sainte-Croix
+new_sentence
+
+shuttle service
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+villa
+
+Bouveret
+new_sentence
+
+room services
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+bed and breakfast
+
+Chesières
+new_sentence
+
+toilet
+new_sentence
+
+swimming pool
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+chalet
+
+Les Diablerets
+new_sentence
+
+garden
+new_sentence
+
+go cycling
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+library
+new_sentence
+richiestautente
+hotel
+
+Morges
+new_sentence
+
+TV with cable channels
+new_sentence
+
+toilet
+new_sentence
+
+patio
+new_sentence
+richiestautente
+apartment
+
+the airport
+new_sentence
+
+shuttle service
+new_sentence
+
+toilet
+new_sentence
+
+laundry
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+villa
+
+Geneva
+new_sentence
+
+swimming pool
+new_sentence
+
+play tennis
+new_sentence
+
+beach nearby
+with a view on the lake
+new_sentence
+richiestautente
+guest house
+
+Nyon
+new_sentence
+
+Hot Tub
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+hotel
+
+Geneva
+new_sentence
+
+massage center
+new_sentence
+
+washing machine
+new_sentence
+
+DVD player
+new_sentence
+
+air conditioning
+new_sentence
+richiestautente
+apartment
+
+Geneva
+new_sentence
+
+Bath
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+bed and breakfast
+
+Yverdon-les-Bains
+new_sentence
+
+Bath
+new_sentence
+
+restaurant
+new_sentence
+
+Hot Tub
+new_sentence
+
+air conditioning
+new_sentence
+richiestautente
+chalet
+
+Vevey
+new_sentence
+
+WiFi
+new_sentence
+
+go cycling
+new_sentence
+
+ski school
+children’s playground
+new_sentence
+richiestautente
+chalet
+
+Bex
+new_sentence
+
+kitchen
+new_sentence
+
+breakfast
+bar
+new_sentence
+
+refrigerator
+new_sentence
+
+hairdryer
+new_sentence
+richiestautente
+chalet
+
+Les Diablerets
+new_sentence
+
+microwave
+new_sentence
+
+beach nearby
+new_sentence
+
+beach nearby
+new_sentence
+
+fitness centre
+new_sentence
+richiestautente
+villa
+
+Chesières
+new_sentence
+
+business centre
+new_sentence
+
+coffee machine
+new_sentence
+richiestautente
+holiday home
+
+Leysin
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+sofa
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Morges
+new_sentence
+
+sun terrace
+new_sentence
+
+laundry
+new_sentence
+
+fitness centre
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+bed and breakfast
+
+Bellevue
+new_sentence
+
+DVD player
+new_sentence
+
+room services
+24-hour reception
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+holiday home
+
+Bellevue
+new_sentence
+
+fitness centre
+new_sentence
+
+balcony
+with a view on the mountains
+new_sentence
+
+garden
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+apartment
+
+the airport
+new_sentence
+
+refrigerator
+TV
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+children’s playground
+Safety Deposit Box
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+hotel
+
+Geneva
+new_sentence
+
+minibar
+new_sentence
+
+minibar
+new_sentence
+
+do horse riding
+new_sentence
+
+TV with cable channels
+new_sentence
+richiestautente
+bed and breakfast
+
+Bex
+new_sentence
+
+kitchen
+new_sentence
+
+lift
+children’s playground
+new_sentence
+richiestautente
+bed and breakfast
+
+Saint-Cergue
+new_sentence
+
+balcony
+new_sentence
+
+lift
+new_sentence
+richiestautente
+chalet
+
+Chateau-d’Oex
+new_sentence
+
+do horse riding
+new_sentence
+
+bar
+new_sentence
+
+fireplace
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+hotel
+
+the airport
+new_sentence
+
+room services
+new_sentence
+
+sofa
+new_sentence
+
+kitchen
+new_sentence
+richiestautente
+holiday home
+
+Bouveret
+new_sentence
+
+private bathroom
+new_sentence
+
+Safety Deposit Box
+lift
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+bed and breakfast
+
+Morges
+new_sentence
+
+breakfast
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+hotel
+
+Lausanne
+new_sentence
+
+balcony
+with a view
+new_sentence
+
+toilet
+air conditioning
+new_sentence
+
+bar
+new_sentence
+
+TV
+new_sentence
+richiestautente
+guest house
+
+Sainte-Croix
+new_sentence
+
+play table tennis
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Les Rasses
+new_sentence
+
+hairdryer
+new_sentence
+
+go cycling
+new_sentence
+
+do horse riding
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+apartment
+
+Gryon
+new_sentence
+
+WiFi
+coffee machine
+new_sentence
+
+library
+new_sentence
+richiestautente
+hotel
+
+Les Rasses
+new_sentence
+
+do horse riding
+new_sentence
+
+garden
+with a view on the lake
+new_sentence
+richiestautente
+guest house
+
+Morges
+new_sentence
+
+fitness centre
+new_sentence
+
+sofa
+new_sentence
+
+terrace
+with a view
+new_sentence
+richiestautente
+holiday home
+
+Bex
+new_sentence
+
+room services
+new_sentence
+
+minibar
+refrigerator
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+hotel
+
+Saint-Cergue
+new_sentence
+
+Hammam
+new_sentence
+
+hairdryer
+new_sentence
+
+Hot Tub
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+bed and breakfast
+
+Saint-Cergue
+new_sentence
+
+go skiing
+new_sentence
+
+restaurant
+new_sentence
+
+sofa
+new_sentence
+
+toilet
+TV
+new_sentence
+richiestautente
+apartment
+
+Les Rasses
+new_sentence
+
+fitness centre
+new_sentence
+
+hairdryer
+new_sentence
+
+massage center
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+bed and breakfast
+
+Chateau-d’Oex
+new_sentence
+
+go skiing
+new_sentence
+
+room services
+new_sentence
+
+patio
+new_sentence
+richiestautente
+hostel
+
+Yverdon-les-Bains
+new_sentence
+
+restaurant
+new_sentence
+
+bar
+new_sentence
+
+library
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+guest house
+
+Nyon
+new_sentence
+
+24-hour reception
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+apartment
+
+Rossinière
+new_sentence
+
+massage center
+new_sentence
+
+refrigerator
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+chalet
+
+Montreux
+new_sentence
+
+coffee machine
+new_sentence
+
+business centre
+bar
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chesières
+new_sentence
+
+breakfast
+business centre
+new_sentence
+
+parking spot
+new_sentence
+
+beach nearby
+with a view on the mountains
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+hostel
+
+the airport
+new_sentence
+
+sun terrace
+new_sentence
+
+go cycling
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Bex
+new_sentence
+
+do horse riding
+new_sentence
+
+balcony
+with a view on the lake
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+hostel
+
+Lausanne
+new_sentence
+
+minibar
+new_sentence
+
+balcony
+new_sentence
+richiestautente
+villa
+
+Morges
+new_sentence
+
+TV
+sofa
+new_sentence
+
+Bath
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+the airport
+new_sentence
+
+Hammam
+new_sentence
+
+go hiking
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+apartment
+
+Nyon
+new_sentence
+
+TV with cable channels
+new_sentence
+
+children’s playground
+new_sentence
+richiestautente
+hotel
+
+Gryon
+new_sentence
+
+toilet
+washing machine
+new_sentence
+
+TV
+minibar
+new_sentence
+
+TV
+new_sentence
+richiestautente
+chalet
+
+Sainte-Croix
+new_sentence
+
+fitness centre
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+hotel
+
+Bouveret
+new_sentence
+
+go hiking
+new_sentence
+
+patio
+new_sentence
+richiestautente
+bed and breakfast
+
+Leysin
+new_sentence
+
+DVD player
+new_sentence
+
+hairdryer
+new_sentence
+
+restaurant
+lift
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+guest house
+
+Arveyes
+new_sentence
+
+library
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+chalet
+
+Villars-sur-Ollon
+new_sentence
+
+massage center
+new_sentence
+
+bar
+new_sentence
+richiestautente
+apartment
+
+Geneva
+new_sentence
+
+business centre
+new_sentence
+
+air conditioning
+bathroom with a bath
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+chalet
+
+the airport
+new_sentence
+
+Bath
+new_sentence
+
+refrigerator
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+villa
+
+Villeneuve
+new_sentence
+
+patio
+with a view
+new_sentence
+
+restaurant
+new_sentence
+
+Hammam
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+apartment
+
+Geneva
+new_sentence
+
+minibar
+new_sentence
+
+laundry
+new_sentence
+
+go hiking
+new_sentence
+
+minibar
+new_sentence
+richiestautente
+bed and breakfast
+
+Chesières
+new_sentence
+
+Hot Tub
+new_sentence
+
+WiFi
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+guest house
+
+Geneva
+new_sentence
+
+laundry
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+villa
+
+Yverdon-les-Bains
+new_sentence
+
+go cycling
+new_sentence
+
+Bath
+new_sentence
+
+swimming pool
+new_sentence
+
+patio
+with a view on the mountains
+new_sentence
+richiestautente
+hostel
+
+Saint-Cergue
+new_sentence
+
+TV
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+apartment
+
+Nyon
+new_sentence
+
+business centre
+new_sentence
+
+bar
+children’s playground
+new_sentence
+
+Hammam
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+bed and breakfast
+
+Les Diablerets
+new_sentence
+
+restaurant
+new_sentence
+
+balcony
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+hotel
+
+Vevey
+new_sentence
+
+CD player
+new_sentence
+
+parking spot
+room services
+new_sentence
+richiestautente
+villa
+
+Nyon
+new_sentence
+
+air conditioning
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+holiday home
+
+Geneva
+new_sentence
+
+swimming pool
+with a view on the mountains
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+guest house
+
+Vevey
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+private bathroom
+sofa
+new_sentence
+richiestautente
+chalet
+
+Yverdon-les-Bains
+new_sentence
+
+swimming pool
+new_sentence
+
+coffee machine
+sofa
+new_sentence
+
+Safety Deposit Box
+new_sentence
+richiestautente
+guest house
+
+Sainte-Croix
+new_sentence
+
+Bath
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+villa
+
+Leysin
+new_sentence
+
+massage center
+new_sentence
+
+sofa
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Les Rasses
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+Hammam
+new_sentence
+
+terrace
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+holiday home
+
+Les Rasses
+new_sentence
+
+play tennis
+new_sentence
+
+ski school
+new_sentence
+
+Hammam
+new_sentence
+
+TV with cable channels
+new_sentence
+richiestautente
+holiday home
+
+Lausanne
+new_sentence
+
+swimming pool
+new_sentence
+
+Hammam
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Geneva
+new_sentence
+
+TV
+new_sentence
+
+minibar
+new_sentence
+
+toilet
+microwave
+new_sentence
+
+desk
+new_sentence
+richiestautente
+holiday home
+
+Arveyes
+new_sentence
+
+go cycling
+new_sentence
+
+go cycling
+new_sentence
+
+washing machine
+new_sentence
+richiestautente
+apartment
+
+Morges
+new_sentence
+
+lift
+new_sentence
+
+business centre
+new_sentence
+
+go skiing
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+hostel
+
+Gryon
+new_sentence
+
+fireplace
+new_sentence
+
+swimming pool
+new_sentence
+
+sofa
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+villa
+
+Chateau-d’Oex
+new_sentence
+
+children’s playground
+new_sentence
+
+shuttle service
+new_sentence
+
+kitchen
+new_sentence
+
+private bathroom
+minibar
+new_sentence
+richiestautente
+guest house
+
+Saint-Cergue
+new_sentence
+
+refrigerator
+new_sentence
+
+WiFi
+new_sentence
+
+minibar
+refrigerator
+new_sentence
+
+sun terrace
+with a view
+new_sentence
+richiestautente
+hostel
+
+Les Rasses
+new_sentence
+
+restaurant
+new_sentence
+
+kitchen
+hairdryer
+new_sentence
+
+Hot Tub
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Morges
+new_sentence
+
+play tennis
+new_sentence
+
+room services
+new_sentence
+richiestautente
+hostel
+
+Morges
+new_sentence
+
+microwave
+refrigerator
+new_sentence
+
+Hammam
+new_sentence
+
+patio
+new_sentence
+richiestautente
+guest house
+
+Arveyes
+new_sentence
+
+microwave
+new_sentence
+
+air conditioning
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Geneva
+new_sentence
+
+private bathroom
+toilet
+new_sentence
+
+go skiing
+new_sentence
+
+coffee machine
+new_sentence
+
+business centre
+24-hour reception
+new_sentence
+richiestautente
+hostel
+
+Les Rasses
+new_sentence
+
+hairdryer
+new_sentence
+
+Bath
+new_sentence
+
+room services
+shuttle service
+new_sentence
+richiestautente
+hotel
+
+Rossinière
+new_sentence
+
+go hiking
+new_sentence
+
+washing machine
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+minibar
+new_sentence
+richiestautente
+chalet
+
+Les Diablerets
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+chalet
+
+Leysin
+new_sentence
+
+garden
+new_sentence
+
+lift
+new_sentence
+richiestautente
+apartment
+
+Leysin
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+
+terrace
+new_sentence
+
+CD player
+new_sentence
+
+play tennis
+new_sentence
+richiestautente
+apartment
+
+Morges
+new_sentence
+
+go cycling
+new_sentence
+
+Hammam
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+guest house
+
+Nyon
+new_sentence
+
+garden
+new_sentence
+
+TV with cable channels
+new_sentence
+richiestautente
+chalet
+
+Villeneuve
+new_sentence
+
+WiFi
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+apartment
+
+Lausanne
+new_sentence
+
+Hammam
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chesières
+new_sentence
+
+go hiking
+new_sentence
+
+play tennis
+new_sentence
+
+parking spot
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+chalet
+
+the airport
+new_sentence
+
+sun terrace
+new_sentence
+
+TV
+kitchen
+new_sentence
+
+sun terrace
+new_sentence
+
+kitchen
+sofa
+new_sentence
+richiestautente
+hostel
+
+the airport
+new_sentence
+
+go skiing
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+apartment
+
+Saint-Cergue
+new_sentence
+
+library
+new_sentence
+
+library
+new_sentence
+
+laundry
+new_sentence
+
+fitness centre
+new_sentence
+richiestautente
+villa
+
+Vevey
+new_sentence
+
+TV
+new_sentence
+
+fireplace
+new_sentence
+
+room services
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+hostel
+
+Villars-sur-Ollon
+new_sentence
+
+kitchen
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+apartment
+
+Rossinière
+new_sentence
+
+WiFi
+new_sentence
+
+CD player
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+bed and breakfast
+
+Yverdon-les-Bains
+new_sentence
+
+room services
+new_sentence
+
+private bathroom
+new_sentence
+
+Hammam
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+hotel
+
+Chateau-d’Oex
+new_sentence
+
+fitness centre
+new_sentence
+
+ski school
+new_sentence
+
+patio
+with a view on the mountains
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+holiday home
+
+Montreux
+new_sentence
+
+breakfast
+new_sentence
+
+children’s playground
+business centre
+new_sentence
+
+parking spot
+new_sentence
+
+bar
+new_sentence
+richiestautente
+guest house
+
+Lausanne
+new_sentence
+
+Sauna
+new_sentence
+
+shuttle service
+new_sentence
+
+swimming pool
+with a view on the mountains
+new_sentence
+richiestautente
+villa
+
+Villeneuve
+new_sentence
+
+parking spot
+new_sentence
+
+washing machine
+kitchen
+new_sentence
+
+library
+new_sentence
+richiestautente
+apartment
+
+Geneva
+new_sentence
+
+balcony
+with a view on the lake
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+villa
+
+Lausanne
+new_sentence
+
+sun terrace
+new_sentence
+
+fitness centre
+new_sentence
+
+patio
+with a view
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chateau-d’Oex
+new_sentence
+
+massage center
+new_sentence
+
+Hot Tub
+new_sentence
+
+children’s playground
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Montreux
+new_sentence
+
+DVD player
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+hostel
+
+Rossinière
+new_sentence
+
+swimming pool
+new_sentence
+
+desk
+new_sentence
+
+WiFi
+new_sentence
+
+bar
+room services
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Saint-Cergue
+new_sentence
+
+CD player
+new_sentence
+
+children’s playground
+new_sentence
+
+restaurant
+parking spot
+new_sentence
+
+TV
+sofa
+new_sentence
+richiestautente
+bed and breakfast
+
+Les Diablerets
+new_sentence
+
+play table tennis
+new_sentence
+
+swimming pool
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+patio
+with a view
+new_sentence
+richiestautente
+hotel
+
+Chateau-d’Oex
+new_sentence
+
+terrace
+with a view
+new_sentence
+
+desk
+sofa
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Chesières
+new_sentence
+
+terrace
+new_sentence
+
+fireplace
+new_sentence
+
+bathroom with a bath
+new_sentence
+richiestautente
+apartment
+
+the airport
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+Safety Deposit Box
+new_sentence
+
+massage center
+new_sentence
+richiestautente
+bed and breakfast
+
+the airport
+new_sentence
+
+swimming pool
+new_sentence
+
+kitchen
+new_sentence
+
+do horse riding
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+guest house
+
+Les Diablerets
+new_sentence
+
+play in casino
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+hostel
+
+Morges
+new_sentence
+
+balcony
+new_sentence
+
+WiFi
+new_sentence
+
+toilet
+hairdryer
+new_sentence
+
+Sauna
+new_sentence
+richiestautente
+villa
+
+Vevey
+new_sentence
+
+hairdryer
+new_sentence
+
+microwave
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Les Rasses
+new_sentence
+
+swimming pool
+new_sentence
+
+24-hour reception
+new_sentence
+
+Hammam
+new_sentence
+
+air conditioning
+coffee machine
+new_sentence
+richiestautente
+hotel
+
+Chesières
+new_sentence
+
+Bath
+new_sentence
+
+coffee machine
+new_sentence
+richiestautente
+hostel
+
+Montreux
+new_sentence
+
+TV with cable channels
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+bed and breakfast
+
+Saint-Cergue
+new_sentence
+
+beach nearby
+new_sentence
+
+children’s playground
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+villa
+
+Sainte-Croix
+new_sentence
+
+sofa
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+business centre
+Safety Deposit Box
+new_sentence
+richiestautente
+hostel
+
+Chesières
+new_sentence
+
+Hot Tub
+new_sentence
+
+hairdryer
+new_sentence
+
+microwave
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Rossinière
+new_sentence
+
+terrace
+new_sentence
+
+business centre
+room services
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+bed and breakfast
+
+Bouveret
+new_sentence
+
+fireplace
+new_sentence
+
+terrace
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+holiday home
+
+Gryon
+new_sentence
+
+washing machine
+TV
+new_sentence
+
+TV
+sofa
+new_sentence
+
+Bath
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+hostel
+
+Gryon
+new_sentence
+
+play tennis
+new_sentence
+
+patio
+with a view on the mountains
+new_sentence
+
+Bath
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+holiday home
+
+Saint-Cergue
+new_sentence
+
+patio
+new_sentence
+
+Hammam
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+villa
+
+Geneva
+new_sentence
+
+do horse riding
+new_sentence
+
+terrace
+new_sentence
+richiestautente
+hotel
+
+the airport
+new_sentence
+
+go skiing
+new_sentence
+
+air conditioning
+new_sentence
+richiestautente
+bed and breakfast
+
+Yverdon-les-Bains
+new_sentence
+
+shuttle service
+parking spot
+new_sentence
+
+sofa
+new_sentence
+richiestautente
+villa
+
+Vevey
+new_sentence
+
+balcony
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+holiday home
+
+Gryon
+new_sentence
+
+do horse riding
+new_sentence
+
+laundry
+new_sentence
+richiestautente
+apartment
+
+Saint-Cergue
+new_sentence
+
+terrace
+with a view
+new_sentence
+
+washing machine
+new_sentence
+
+children’s playground
+new_sentence
+richiestautente
+holiday home
+
+the airport
+new_sentence
+
+lift
+new_sentence
+
+patio
+new_sentence
+
+breakfast
+new_sentence
+richiestautente
+villa
+
+Chateau-d’Oex
+new_sentence
+
+ski school
+business centre
+new_sentence
+
+refrigerator
+TV
+new_sentence
+
+toilet
+new_sentence
+
+Hammam
+new_sentence
+richiestautente
+guest house
+
+Rossinière
+new_sentence
+
+sofa
+new_sentence
+
+air conditioning
+toilet
+new_sentence
+
+coffee machine
+new_sentence
+
+private bathroom
+new_sentence
+richiestautente
+holiday home
+
+Arveyes
+new_sentence
+
+CD player
+new_sentence
+
+patio
+new_sentence
+richiestautente
+hostel
+
+Chateau-d’Oex
+new_sentence
+
+Hot Tub
+new_sentence
+
+24-hour reception
+new_sentence
+
+terrace
+new_sentence
+
+library
+new_sentence
+richiestautente
+chalet
+
+Nyon
+new_sentence
+
+TV
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+hostel
+
+Geneva
+new_sentence
+
+go skiing
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+hostel
+
+Rossinière
+new_sentence
+
+beach nearby
+new_sentence
+
+swimming pool
+new_sentence
+
+terrace
+new_sentence
+
+business centre
+new_sentence
+richiestautente
+villa
+
+Sainte-Croix
+new_sentence
+
+minibar
+sofa
+new_sentence
+
+shuttle service
+bar
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+sun terrace
+new_sentence
+richiestautente
+hostel
+
+Villeneuve
+new_sentence
+
+lift
+new_sentence
+
+bathroom with a bath
+sofa
+new_sentence
+
+laundry
+new_sentence
+
+beach nearby
+new_sentence
+richiestautente
+hostel
+
+Villeneuve
+new_sentence
+
+play tennis
+new_sentence
+
+balcony
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+villa
+
+Saint-Cergue
+new_sentence
+
+garden
+new_sentence
+
+go hiking
+new_sentence
+
+swimming pool
+with a view on the mountains
+new_sentence
+richiestautente
+bed and breakfast
+
+Montreux
+new_sentence
+
+24-hour reception
+new_sentence
+
+room services
+new_sentence
+
+lift
+ski school
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+hotel
+
+Arveyes
+new_sentence
+
+bar
+new_sentence
+
+TV with cable channels
+new_sentence
+
+restaurant
+new_sentence
+
+shuttle service
+new_sentence
+richiestautente
+apartment
+
+Bellevue
+new_sentence
+
+library
+new_sentence
+
+laundry
+new_sentence
+
+parking spot
+new_sentence
+
+parking spot
+new_sentence
+richiestautente
+guest house
+
+Lausanne
+new_sentence
+
+Safety Deposit Box
+parking spot
+new_sentence
+
+garden
+new_sentence
+
+washing machine
+minibar
+new_sentence
+
+ski school
+shuttle service
+new_sentence
+richiestautente
+bed and breakfast
+
+Bellevue
+new_sentence
+
+swimming pool
+new_sentence
+
+go hiking
+new_sentence
+
+CD player
+new_sentence
+richiestautente
+villa
+
+Bex
+new_sentence
+
+library
+new_sentence
+
+restaurant
+new_sentence
+richiestautente
+chalet
+
+Saint-Cergue
+new_sentence
+
+go hiking
+new_sentence
+
+massage center
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Leysin
+new_sentence
+
+swimming pool
+new_sentence
+
+refrigerator
+new_sentence
+richiestautente
+villa
+
+Villars-sur-Ollon
+new_sentence
+
+breakfast
+new_sentence
+
+fireplace
+new_sentence
+richiestautente
+bed and breakfast
+
+Bouveret
+new_sentence
+
+refrigerator
+microwave
+new_sentence
+
+DVD player
+new_sentence
+richiestautente
+hostel
+
+Vevey
+new_sentence
+
+shuttle service
+new_sentence
+
+play table tennis
+new_sentence
+richiestautente
+hotel
+
+Vevey
+new_sentence
+
+TV with cable channels
+new_sentence
+
+CD player
+new_sentence
+
+bar
+new_sentence
+
+ski school
+new_sentence
+richiestautente
+chalet
+
+Chateau-d’Oex
+new_sentence
+
+restaurant
+new_sentence
+
+do horse riding
+new_sentence
+
+swimming pool
+new_sentence
+richiestautente
+holiday home
+
+Chateau-d’Oex
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+go cycling
+new_sentence
+richiestautente
+guest house
+
+Villars-sur-Ollon
+new_sentence
+
+terrace
+new_sentence
+
+go cycling
+new_sentence
+
+laundry
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Gryon
+new_sentence
+
+bar
+new_sentence
+
+air conditioning
+new_sentence
+
+patio
+with a view on the lake
+new_sentence
+richiestautente
+hostel
+
+Leysin
+new_sentence
+
+terrace
+new_sentence
+
+fitness centre
+new_sentence
+
+private bathroom
+new_sentence
+
+do horse riding
+new_sentence
+richiestautente
+holiday home
+
+the airport
+new_sentence
+
+breakfast
+business centre
+new_sentence
+
+fireplace
+new_sentence
+
+refrigerator
+new_sentence
+
+hairdryer
+new_sentence
+richiestautente
+hostel
+
+Bouveret
+new_sentence
+
+patio
+with a view on the mountains
+new_sentence
+
+balcony
+with a view
+new_sentence
+
+terrace
+with a view
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+guest house
+
+Leysin
+new_sentence
+
+room services
+new_sentence
+
+go skiing
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+
+library
+new_sentence
+richiestautente
+hostel
+
+Bex
+new_sentence
+
+TV
+new_sentence
+
+TV with cable channels
+new_sentence
+
+Hot Tub
+new_sentence
+richiestautente
+apartment
+
+Sainte-Croix
+new_sentence
+
+patio
+with a view
+new_sentence
+
+TV
+desk
+new_sentence
+
+microwave
+new_sentence
+richiestautente
+guest house
+
+Geneva
+new_sentence
+
+terrace
+with a view on the mountains
+new_sentence
+
+TV
+toilet
+new_sentence
+richiestautente
+guest house
+
+Arveyes
+new_sentence
+
+sofa
+new_sentence
+
+swimming pool
+with a view on the lake
+new_sentence
+richiestautente
+pet-friendly accomodation
+
+Saint-Cergue
+new_sentence
+
+restaurant
+lift
+new_sentence
+
+go hiking
+new_sentence
+richiestautente
+bed and breakfast
+
+the airport
+new_sentence
+
+TV
+private bathroom
+new_sentence
+
+WiFi
+new_sentence
+richiestautente
+holiday home
+
+Nyon
+new_sentence
+
+swimming pool
+new_sentence
+
+play in casino
+new_sentence
+richiestautente
+bed and breakfast
+
+Geneva
+new_sentence
+
+play tennis
+new_sentence
+
+balcony
+with a view on the mountains
+new_sentence
+
+room services
+new_sentence
+richiestautente
+hostel
+
+Les Rasses
+new_sentence
+
+bathroom with a bath
+new_sentence
+
+library
+new_sentence
+richiestautente
