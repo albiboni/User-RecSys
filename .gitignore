@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+#datasets: embeddings and pretrained_vectors
+reccomender_system/datasets/fasttext/embeddings/*
+reccomender_system/datasets/fasttext/wiki.en.vec
+
+
 __pycache__/
 *.py[cod]
 *$py.class
