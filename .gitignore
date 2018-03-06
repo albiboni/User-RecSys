@@ -2,6 +2,7 @@
 #datasets: embeddings and pretrained_vectors
 recommender_system/datasets/fasttext/embeddings/*
 recommender_system/datasets/fasttext/wiki.en.vec
+*extra
 
 #extra files
 *.DS_Store
